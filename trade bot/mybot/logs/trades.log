@@ -1,0 +1,836 @@
+2021/11/25 22:57:07 Start: 2021-11-25T15:57:07Z
+2021/11/25 22:58:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.396100 	 - Quantity: 53.213567 	 - Time: 2021-11-25T15:57:59Z
+2021/11/25 23:01:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.409100 	 - Quantity: 53.140045 	 - Time: 2021-11-25T16:00:59Z
+2021/11/25 23:01:00 EXIT: Profit: 0.691776 	 Total Profit: 0.691776 	 -- Comment: Exit LONG --
+2021/11/25 23:15:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.432000 	 - Quantity: 53.011026 	 - Time: 2021-11-25T16:14:59Z
+2021/11/25 23:15:00 EXIT: Profit: 1.216907 	 Total Profit: 1.908683 	 -- Comment: Exit SHORT --
+2021/11/25 23:21:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.435700 	 - Quantity: 52.990239 	 - Time: 2021-11-25T16:20:59Z
+2021/11/25 23:21:00 EXIT: Profit: -0.196141 	 Total Profit: 1.712543 	 -- Comment: Exit LONG --
+2021/11/25 23:22:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.419800 	 - Quantity: 53.079683 	 - Time: 2021-11-25T16:21:59Z
+2021/11/25 23:22:00 EXIT: Profit: -0.842545 	 Total Profit: 0.869998 	 -- Comment: Exit SHORT --
+2021/11/25 23:33:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.364000 	 - Quantity: 53.395985 	 - Time: 2021-11-25T16:32:59Z
+2021/11/25 23:33:00 EXIT: Profit: 2.961846 	 Total Profit: 3.831844 	 -- Comment: Exit LONG --
+2021/11/25 23:36:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.363200 	 - Quantity: 53.400547 	 - Time: 2021-11-25T16:35:59Z
+2021/11/25 23:36:00 EXIT: Profit: -0.042717 	 Total Profit: 3.789127 	 -- Comment: Exit SHORT --
+2021/11/25 23:37:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.369600 	 - Quantity: 53.364071 	 - Time: 2021-11-25T16:36:59Z
+2021/11/25 23:37:00 EXIT: Profit: -0.341763 	 Total Profit: 3.447364 	 -- Comment: Exit LONG --
+2021/11/25 23:38:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.374600 	 - Quantity: 53.335609 	 - Time: 2021-11-25T16:37:59Z
+2021/11/25 23:38:00 EXIT: Profit: 0.266820 	 Total Profit: 3.714184 	 -- Comment: Exit LONG --
+2021/11/25 23:57:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.457200 	 - Quantity: 52.869771 	 - Time: 2021-11-25T16:56:59Z
+2021/11/25 23:57:00 EXIT: Profit: 4.405521 	 Total Profit: 8.119706 	 -- Comment: Exit SHORT --
+2021/11/26 00:09:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.415400 	 - Quantity: 53.104488 	 - Time: 2021-11-25T17:08:59Z
+2021/11/26 00:09:00 EXIT: Profit: 2.209956 	 Total Profit: 10.329662 	 -- Comment: Exit LONG --
+2021/11/26 00:10:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.404700 	 - Quantity: 53.164907 	 - Time: 2021-11-25T17:09:59Z
+2021/11/26 00:10:00 EXIT: Profit: -0.568218 	 Total Profit: 9.761444 	 -- Comment: Exit SHORT --
+2021/11/26 00:18:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.381300 	 - Quantity: 53.297517 	 - Time: 2021-11-25T17:17:59Z
+2021/11/26 00:18:00 EXIT: Profit: 1.244059 	 Total Profit: 11.005503 	 -- Comment: Exit LONG --
+2021/11/26 00:19:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.372000 	 - Quantity: 53.350405 	 - Time: 2021-11-25T17:18:59Z
+2021/11/26 00:19:00 EXIT: Profit: -0.495667 	 Total Profit: 10.509836 	 -- Comment: Exit SHORT --
+2021/11/26 00:30:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.310400 	 - Quantity: 53.703385 	 - Time: 2021-11-25T17:29:59Z
+2021/11/26 00:30:00 EXIT: Profit: 3.286385 	 Total Profit: 13.796221 	 -- Comment: Exit LONG --
+2021/11/26 00:32:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.292000 	 - Quantity: 53.809729 	 - Time: 2021-11-25T17:31:59Z
+2021/11/26 00:32:00 EXIT: Profit: -0.988142 	 Total Profit: 12.808079 	 -- Comment: Exit SHORT --
+2021/11/26 00:34:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.313000 	 - Quantity: 53.688393 	 - Time: 2021-11-25T17:33:59Z
+2021/11/26 00:34:00 EXIT: Profit: -1.130004 	 Total Profit: 11.678074 	 -- Comment: Exit LONG --
+2021/11/26 00:45:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.335200 	 - Quantity: 53.560716 	 - Time: 2021-11-25T17:44:59Z
+2021/11/26 00:45:01 EXIT: Profit: 1.191882 	 Total Profit: 12.869957 	 -- Comment: Exit SHORT --
+2021/11/26 00:46:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.349100 	 - Quantity: 53.481084 	 - Time: 2021-11-25T17:45:59Z
+2021/11/26 00:46:00 EXIT: Profit: -0.744494 	 Total Profit: 12.125463 	 -- Comment: Exit LONG --
+2021/11/26 00:57:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.356000 	 - Quantity: 53.441642 	 - Time: 2021-11-25T17:56:59Z
+2021/11/26 00:57:00 EXIT: Profit: 0.369019 	 Total Profit: 12.494482 	 -- Comment: Exit SHORT --
+2021/11/26 01:04:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.364200 	 - Quantity: 53.394844 	 - Time: 2021-11-25T18:03:59Z
+2021/11/26 01:04:00 EXIT: Profit: -0.438221 	 Total Profit: 12.056261 	 -- Comment: Exit SHORT --
+2021/11/26 01:09:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.367000 	 - Quantity: 53.378883 	 - Time: 2021-11-25T18:08:59Z
+2021/11/26 01:09:00 EXIT: Profit: -0.149506 	 Total Profit: 11.906755 	 -- Comment: Exit LONG --
+2021/11/26 01:10:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.354500 	 - Quantity: 53.450211 	 - Time: 2021-11-25T18:09:59Z
+2021/11/26 01:10:00 EXIT: Profit: -0.667236 	 Total Profit: 11.239519 	 -- Comment: Exit SHORT --
+2021/11/26 01:13:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.370600 	 - Quantity: 53.358376 	 - Time: 2021-11-25T18:12:59Z
+2021/11/26 01:13:00 EXIT: Profit: -0.860548 	 Total Profit: 10.378971 	 -- Comment: Exit LONG --
+2021/11/26 01:21:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.379400 	 - Quantity: 53.308314 	 - Time: 2021-11-25T18:20:59Z
+2021/11/26 01:21:00 EXIT: Profit: 0.469554 	 Total Profit: 10.848524 	 -- Comment: Exit SHORT --
+2021/11/26 01:33:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.357100 	 - Quantity: 53.435359 	 - Time: 2021-11-25T18:32:59Z
+2021/11/26 01:33:00 EXIT: Profit: 1.188775 	 Total Profit: 12.037300 	 -- Comment: Exit LONG --
+2021/11/26 01:38:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.349500 	 - Quantity: 53.478796 	 - Time: 2021-11-25T18:37:59Z
+2021/11/26 01:38:00 EXIT: Profit: -0.406109 	 Total Profit: 11.631191 	 -- Comment: Exit SHORT --
+2021/11/26 01:40:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.367300 	 - Quantity: 53.377174 	 - Time: 2021-11-25T18:39:59Z
+2021/11/26 01:40:00 EXIT: Profit: -0.951923 	 Total Profit: 10.679268 	 -- Comment: Exit LONG --
+2021/11/26 01:43:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.361000 	 - Quantity: 53.413097 	 - Time: 2021-11-25T18:42:59Z
+2021/11/26 01:43:00 EXIT: Profit: -0.336276 	 Total Profit: 10.342992 	 -- Comment: Exit SHORT --
+2021/11/26 01:44:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.370100 	 - Quantity: 53.361223 	 - Time: 2021-11-25T18:43:59Z
+2021/11/26 01:44:00 EXIT: Profit: -0.486059 	 Total Profit: 9.856933 	 -- Comment: Exit LONG --
+2021/11/26 01:46:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.358400 	 - Quantity: 53.427936 	 - Time: 2021-11-25T18:45:59Z
+2021/11/26 01:46:01 EXIT: Profit: -0.624326 	 Total Profit: 9.232607 	 -- Comment: Exit SHORT --
+2021/11/26 01:52:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.355600 	 - Quantity: 53.443927 	 - Time: 2021-11-25T18:51:59Z
+2021/11/26 01:52:00 EXIT: Profit: 0.149598 	 Total Profit: 9.382205 	 -- Comment: Exit LONG --
+2021/11/26 02:11:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.384100 	 - Quantity: 53.281615 	 - Time: 2021-11-25T19:10:59Z
+2021/11/26 02:11:00 EXIT: Profit: 1.523152 	 Total Profit: 10.905357 	 -- Comment: Exit LONG --
+2021/11/26 02:13:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.368000 	 - Quantity: 53.373185 	 - Time: 2021-11-25T19:12:59Z
+2021/11/26 02:13:00 EXIT: Profit: -0.857834 	 Total Profit: 10.047523 	 -- Comment: Exit SHORT --
+2021/11/26 02:16:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.363800 	 - Quantity: 53.397125 	 - Time: 2021-11-25T19:15:59Z
+2021/11/26 02:16:00 EXIT: Profit: 0.224167 	 Total Profit: 10.271690 	 -- Comment: Exit SHORT --
+2021/11/26 02:33:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.290000 	 - Quantity: 53.821313 	 - Time: 2021-11-25T19:33:59Z
+2021/11/26 02:33:01 EXIT: Profit: 3.940708 	 Total Profit: 14.212398 	 -- Comment: Exit LONG --
+2021/11/26 02:34:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.292600 	 - Quantity: 53.806254 	 - Time: 2021-11-25T19:33:59Z
+2021/11/26 02:34:00 EXIT: Profit: 0.139935 	 Total Profit: 14.352333 	 -- Comment: Exit LONG --
+2021/11/26 02:36:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.285500 	 - Quantity: 53.847396 	 - Time: 2021-11-25T19:35:59Z
+2021/11/26 02:36:00 EXIT: Profit: -0.382024 	 Total Profit: 13.970309 	 -- Comment: Exit SHORT --
+2021/11/26 02:37:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.285800 	 - Quantity: 53.845657 	 - Time: 2021-11-25T19:36:59Z
+2021/11/26 02:37:01 EXIT: Profit: -0.016154 	 Total Profit: 13.954155 	 -- Comment: Exit LONG --
+2021/11/26 02:38:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.278600 	 - Quantity: 53.887440 	 - Time: 2021-11-25T19:37:59Z
+2021/11/26 02:38:00 EXIT: Profit: -0.387689 	 Total Profit: 13.566466 	 -- Comment: Exit SHORT --
+2021/11/26 02:40:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.276700 	 - Quantity: 53.898477 	 - Time: 2021-11-25T19:39:59Z
+2021/11/26 02:40:00 EXIT: Profit: 0.102386 	 Total Profit: 13.668852 	 -- Comment: Exit SHORT --
+2021/11/26 02:47:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.262100 	 - Quantity: 53.983438 	 - Time: 2021-11-25T19:46:59Z
+2021/11/26 02:47:00 EXIT: Profit: 0.786918 	 Total Profit: 14.455770 	 -- Comment: Exit LONG --
+2021/11/26 03:05:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.280800 	 - Quantity: 53.874666 	 - Time: 2021-11-25T20:04:59Z
+2021/11/26 03:05:00 EXIT: Profit: 1.009490 	 Total Profit: 15.465260 	 -- Comment: Exit SHORT --
+2021/11/26 03:06:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.287900 	 - Quantity: 53.833482 	 - Time: 2021-11-25T20:05:59Z
+2021/11/26 03:06:00 EXIT: Profit: -0.382510 	 Total Profit: 15.082750 	 -- Comment: Exit LONG --
+2021/11/26 03:09:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.268300 	 - Quantity: 53.947326 	 - Time: 2021-11-25T20:08:59Z
+2021/11/26 03:09:01 EXIT: Profit: -1.055136 	 Total Profit: 14.027614 	 -- Comment: Exit SHORT --
+2021/11/26 03:14:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.284500 	 - Quantity: 53.853196 	 - Time: 2021-11-25T20:13:59Z
+2021/11/26 03:14:00 EXIT: Profit: -0.873947 	 Total Profit: 13.153667 	 -- Comment: Exit LONG --
+2021/11/26 03:16:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.257700 	 - Quantity: 54.009095 	 - Time: 2021-11-25T20:15:59Z
+2021/11/26 03:16:00 EXIT: Profit: -1.443266 	 Total Profit: 11.710402 	 -- Comment: Exit SHORT --
+2021/11/26 03:20:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.263600 	 - Quantity: 53.974697 	 - Time: 2021-11-25T20:19:59Z
+2021/11/26 03:20:00 EXIT: Profit: -0.318654 	 Total Profit: 11.391748 	 -- Comment: Exit LONG --
+2021/11/26 03:23:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.256400 	 - Quantity: 54.016680 	 - Time: 2021-11-25T20:22:59Z
+2021/11/26 03:23:01 EXIT: Profit: -0.388618 	 Total Profit: 11.003130 	 -- Comment: Exit SHORT --
+2021/11/26 03:26:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.270100 	 - Quantity: 53.936851 	 - Time: 2021-11-25T20:25:59Z
+2021/11/26 03:26:00 EXIT: Profit: -0.740029 	 Total Profit: 10.263102 	 -- Comment: Exit LONG --
+2021/11/26 03:41:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.267300 	 - Quantity: 53.953147 	 - Time: 2021-11-25T20:40:59Z
+2021/11/26 03:41:01 EXIT: Profit: -0.151023 	 Total Profit: 10.112078 	 -- Comment: Exit SHORT --
+2021/11/26 03:44:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.291900 	 - Quantity: 53.810308 	 - Time: 2021-11-25T20:43:59Z
+2021/11/26 03:44:00 EXIT: Profit: -1.327247 	 Total Profit: 8.784831 	 -- Comment: Exit LONG --
+2021/11/26 03:49:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.271300 	 - Quantity: 53.929870 	 - Time: 2021-11-25T20:48:59Z
+2021/11/26 03:49:00 EXIT: Profit: -1.108492 	 Total Profit: 7.676339 	 -- Comment: Exit SHORT --
+2021/11/26 03:58:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.264100 	 - Quantity: 53.971784 	 - Time: 2021-11-25T20:57:59Z
+2021/11/26 03:58:00 EXIT: Profit: 0.388295 	 Total Profit: 8.064634 	 -- Comment: Exit LONG --
+2021/11/26 04:17:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.328100 	 - Quantity: 53.601484 	 - Time: 2021-11-25T21:16:59Z
+2021/11/26 04:17:00 EXIT: Profit: 3.454194 	 Total Profit: 11.518828 	 -- Comment: Exit SHORT --
+2021/11/26 04:19:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.355900 	 - Quantity: 53.442213 	 - Time: 2021-11-25T21:18:59Z
+2021/11/26 04:19:00 EXIT: Profit: -1.490121 	 Total Profit: 10.028707 	 -- Comment: Exit LONG --
+2021/11/26 04:29:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.378500 	 - Quantity: 53.313430 	 - Time: 2021-11-25T21:28:59Z
+2021/11/26 04:29:00 EXIT: Profit: 1.207794 	 Total Profit: 11.236501 	 -- Comment: Exit SHORT --
+2021/11/26 04:34:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.372500 	 - Quantity: 53.347559 	 - Time: 2021-11-25T21:33:59Z
+2021/11/26 04:34:01 EXIT: Profit: 0.319881 	 Total Profit: 11.556381 	 -- Comment: Exit LONG --
+2021/11/26 04:40:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.369600 	 - Quantity: 53.364071 	 - Time: 2021-11-25T21:39:59Z
+2021/11/26 04:40:00 EXIT: Profit: -0.154708 	 Total Profit: 11.401673 	 -- Comment: Exit SHORT --
+2021/11/26 05:03:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.315300 	 - Quantity: 53.675137 	 - Time: 2021-11-25T22:02:59Z
+2021/11/26 05:03:00 EXIT: Profit: 2.897669 	 Total Profit: 14.299342 	 -- Comment: Exit LONG --
+2021/11/26 05:04:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.305400 	 - Quantity: 53.732241 	 - Time: 2021-11-25T22:03:59Z
+2021/11/26 05:04:00 EXIT: Profit: -0.531384 	 Total Profit: 13.767958 	 -- Comment: Exit SHORT --
+2021/11/26 05:06:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.309000 	 - Quantity: 53.711462 	 - Time: 2021-11-25T22:05:59Z
+2021/11/26 05:06:00 EXIT: Profit: -0.193436 	 Total Profit: 13.574522 	 -- Comment: Exit LONG --
+2021/11/26 05:07:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.310000 	 - Quantity: 53.705693 	 - Time: 2021-11-25T22:06:59Z
+2021/11/26 05:07:00 EXIT: Profit: 0.053711 	 Total Profit: 13.628234 	 -- Comment: Exit SHORT --
+2021/11/26 05:20:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.271600 	 - Quantity: 53.928125 	 - Time: 2021-11-25T22:19:59Z
+2021/11/26 05:20:00 EXIT: Profit: 2.062299 	 Total Profit: 15.690532 	 -- Comment: Exit LONG --
+2021/11/26 05:27:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.272800 	 - Quantity: 53.921146 	 - Time: 2021-11-25T22:26:59Z
+2021/11/26 05:27:00 EXIT: Profit: 0.064714 	 Total Profit: 15.755246 	 -- Comment: Exit SHORT --
+2021/11/26 05:32:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.282600 	 - Quantity: 53.864219 	 - Time: 2021-11-25T22:31:59Z
+2021/11/26 05:32:00 EXIT: Profit: -0.528427 	 Total Profit: 15.226819 	 -- Comment: Exit LONG --
+2021/11/26 05:51:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.306500 	 - Quantity: 53.725891 	 - Time: 2021-11-25T22:50:59Z
+2021/11/26 05:51:00 EXIT: Profit: 1.287355 	 Total Profit: 16.514174 	 -- Comment: Exit LONG --
+2021/11/26 05:52:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.305300 	 - Quantity: 53.732819 	 - Time: 2021-11-25T22:51:59Z
+2021/11/26 05:52:01 EXIT: Profit: -0.064471 	 Total Profit: 16.449703 	 -- Comment: Exit SHORT --
+2021/11/26 06:07:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.260100 	 - Quantity: 53.995097 	 - Time: 2021-11-25T23:06:59Z
+2021/11/26 06:07:00 EXIT: Profit: 2.428723 	 Total Profit: 18.878426 	 -- Comment: Exit LONG --
+2021/11/26 06:10:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.256800 	 - Quantity: 54.014346 	 - Time: 2021-11-25T23:09:59Z
+2021/11/26 06:10:01 EXIT: Profit: -0.178184 	 Total Profit: 18.700242 	 -- Comment: Exit SHORT --
+2021/11/26 06:12:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.262800 	 - Quantity: 53.979358 	 - Time: 2021-11-25T23:11:59Z
+2021/11/26 06:12:00 EXIT: Profit: -0.324086 	 Total Profit: 18.376156 	 -- Comment: Exit LONG --
+2021/11/26 06:25:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.282600 	 - Quantity: 53.864219 	 - Time: 2021-11-25T23:24:59Z
+2021/11/26 06:25:00 EXIT: Profit: 1.068791 	 Total Profit: 19.444948 	 -- Comment: Exit SHORT --
+2021/11/26 06:29:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.297300 	 - Quantity: 53.779054 	 - Time: 2021-11-25T23:28:59Z
+2021/11/26 06:29:00 EXIT: Profit: -0.791804 	 Total Profit: 18.653144 	 -- Comment: Exit LONG --
+2021/11/26 06:32:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.283300 	 - Quantity: 53.860157 	 - Time: 2021-11-25T23:31:59Z
+2021/11/26 06:32:00 EXIT: Profit: -0.752907 	 Total Profit: 17.900237 	 -- Comment: Exit SHORT --
+2021/11/26 06:40:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.283900 	 - Quantity: 53.856677 	 - Time: 2021-11-25T23:39:59Z
+2021/11/26 06:40:00 EXIT: Profit: -0.032316 	 Total Profit: 17.867921 	 -- Comment: Exit LONG --
+2021/11/26 06:43:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.269300 	 - Quantity: 53.941506 	 - Time: 2021-11-25T23:42:59Z
+2021/11/26 06:43:00 EXIT: Profit: -0.786307 	 Total Profit: 17.081613 	 -- Comment: Exit SHORT --
+2021/11/26 06:45:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.281100 	 - Quantity: 53.872925 	 - Time: 2021-11-25T23:44:59Z
+2021/11/26 06:45:00 EXIT: Profit: -0.636510 	 Total Profit: 16.445103 	 -- Comment: Exit LONG --
+2021/11/26 06:54:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.289400 	 - Quantity: 53.824790 	 - Time: 2021-11-25T23:53:59Z
+2021/11/26 06:54:00 EXIT: Profit: 0.447145 	 Total Profit: 16.892249 	 -- Comment: Exit LONG --
+2021/11/26 06:57:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.281600 	 - Quantity: 53.870022 	 - Time: 2021-11-25T23:56:59Z
+2021/11/26 06:57:00 EXIT: Profit: -0.419833 	 Total Profit: 16.472415 	 -- Comment: Exit SHORT --
+2021/11/26 07:07:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.284400 	 - Quantity: 53.853776 	 - Time: 2021-11-26T00:06:59Z
+2021/11/26 07:07:00 EXIT: Profit: -0.150836 	 Total Profit: 16.321579 	 -- Comment: Exit SHORT --
+2021/11/26 07:09:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.312200 	 - Quantity: 53.693005 	 - Time: 2021-11-26T00:08:59Z
+2021/11/26 07:09:00 EXIT: Profit: -1.497135 	 Total Profit: 14.824444 	 -- Comment: Exit LONG --
+2021/11/26 07:19:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.302600 	 - Quantity: 53.748414 	 - Time: 2021-11-26T00:18:59Z
+2021/11/26 07:19:00 EXIT: Profit: -0.515453 	 Total Profit: 14.308991 	 -- Comment: Exit SHORT --
+2021/11/26 07:25:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.289500 	 - Quantity: 53.824210 	 - Time: 2021-11-26T00:24:59Z
+2021/11/26 07:25:00 EXIT: Profit: 0.704104 	 Total Profit: 15.013096 	 -- Comment: Exit LONG --
+2021/11/26 07:26:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.274300 	 - Quantity: 53.912425 	 - Time: 2021-11-26T00:25:59Z
+2021/11/26 07:26:00 EXIT: Profit: -0.818128 	 Total Profit: 14.194968 	 -- Comment: Exit SHORT --
+2021/11/26 07:29:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.289500 	 - Quantity: 53.824210 	 - Time: 2021-11-26T00:28:59Z
+2021/11/26 07:29:01 EXIT: Profit: -0.819469 	 Total Profit: 13.375499 	 -- Comment: Exit LONG --
+2021/11/26 07:48:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.349200 	 - Quantity: 53.480512 	 - Time: 2021-11-26T00:47:59Z
+2021/11/26 07:48:01 EXIT: Profit: 3.213305 	 Total Profit: 16.588804 	 -- Comment: Exit SHORT --
+2021/11/26 07:49:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.354100 	 - Quantity: 53.452497 	 - Time: 2021-11-26T00:48:59Z
+2021/11/26 07:49:00 EXIT: Profit: -0.262055 	 Total Profit: 16.326750 	 -- Comment: Exit LONG --
+2021/11/26 07:50:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.340700 	 - Quantity: 53.529179 	 - Time: 2021-11-26T00:49:59Z
+2021/11/26 07:50:00 EXIT: Profit: -0.716263 	 Total Profit: 15.610486 	 -- Comment: Exit SHORT --
+2021/11/26 07:52:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.351500 	 - Quantity: 53.467358 	 - Time: 2021-11-26T00:51:59Z
+2021/11/26 07:52:00 EXIT: Profit: -0.578115 	 Total Profit: 15.032371 	 -- Comment: Exit LONG --
+2021/11/26 07:54:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.321200 	 - Quantity: 53.641162 	 - Time: 2021-11-26T00:53:59Z
+2021/11/26 07:54:00 EXIT: Profit: -1.620061 	 Total Profit: 13.412310 	 -- Comment: Exit SHORT --
+2021/11/26 08:06:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.302400 	 - Quantity: 53.749570 	 - Time: 2021-11-26T01:05:59Z
+2021/11/26 08:06:00 EXIT: Profit: 1.008454 	 Total Profit: 14.420764 	 -- Comment: Exit LONG --
+2021/11/26 08:13:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.302200 	 - Quantity: 53.750726 	 - Time: 2021-11-26T01:12:59Z
+2021/11/26 08:13:00 EXIT: Profit: -0.010750 	 Total Profit: 14.410014 	 -- Comment: Exit SHORT --
+2021/11/26 08:16:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.308000 	 - Quantity: 53.717232 	 - Time: 2021-11-26T01:15:59Z
+2021/11/26 08:16:00 EXIT: Profit: -0.311754 	 Total Profit: 14.098260 	 -- Comment: Exit LONG --
+2021/11/26 08:27:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.346100 	 - Quantity: 53.498251 	 - Time: 2021-11-26T01:26:59Z
+2021/11/26 08:27:00 EXIT: Profit: 2.046627 	 Total Profit: 16.144886 	 -- Comment: Exit SHORT --
+2021/11/26 08:28:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.356500 	 - Quantity: 53.438786 	 - Time: 2021-11-26T01:27:59Z
+2021/11/26 08:28:00 EXIT: Profit: -0.556382 	 Total Profit: 15.588505 	 -- Comment: Exit LONG --
+2021/11/26 08:31:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.355300 	 - Quantity: 53.445640 	 - Time: 2021-11-26T01:30:59Z
+2021/11/26 08:31:00 EXIT: Profit: -0.064127 	 Total Profit: 15.524378 	 -- Comment: Exit LONG --
+2021/11/26 08:33:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.347400 	 - Quantity: 53.490810 	 - Time: 2021-11-26T01:32:59Z
+2021/11/26 08:33:01 EXIT: Profit: -0.422221 	 Total Profit: 15.102158 	 -- Comment: Exit SHORT --
+2021/11/26 08:37:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.342500 	 - Quantity: 53.518865 	 - Time: 2021-11-26T01:36:59Z
+2021/11/26 08:37:00 EXIT: Profit: 0.262105 	 Total Profit: 15.364262 	 -- Comment: Exit LONG --
+2021/11/26 08:38:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.342100 	 - Quantity: 53.521157 	 - Time: 2021-11-26T01:37:59Z
+2021/11/26 08:38:00 EXIT: Profit: -0.021408 	 Total Profit: 15.342855 	 -- Comment: Exit SHORT --
+2021/11/26 08:47:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.326500 	 - Quantity: 53.610679 	 - Time: 2021-11-26T01:46:59Z
+2021/11/26 08:47:00 EXIT: Profit: 0.834930 	 Total Profit: 16.177785 	 -- Comment: Exit LONG --
+2021/11/26 08:49:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.305600 	 - Quantity: 53.731087 	 - Time: 2021-11-26T01:48:59Z
+2021/11/26 08:49:00 EXIT: Profit: -1.120463 	 Total Profit: 15.057322 	 -- Comment: Exit SHORT --
+2021/11/26 08:59:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.290200 	 - Quantity: 53.820155 	 - Time: 2021-11-26T01:59:59Z
+2021/11/26 08:59:01 EXIT: Profit: 0.827459 	 Total Profit: 15.884781 	 -- Comment: Exit LONG --
+2021/11/26 09:09:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.238000 	 - Quantity: 54.124269 	 - Time: 2021-11-26T02:08:59Z
+2021/11/26 09:09:00 EXIT: Profit: -2.809412 	 Total Profit: 13.075368 	 -- Comment: Exit LONG --
+2021/11/26 09:11:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.213000 	 - Quantity: 54.271139 	 - Time: 2021-11-26T02:10:59Z
+2021/11/26 09:11:00 EXIT: Profit: -1.353107 	 Total Profit: 11.722262 	 -- Comment: Exit SHORT --
+2021/11/26 09:24:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.195800 	 - Quantity: 54.372648 	 - Time: 2021-11-26T02:23:59Z
+2021/11/26 09:24:00 EXIT: Profit: 0.933464 	 Total Profit: 12.655725 	 -- Comment: Exit LONG --
+2021/11/26 09:26:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.173400 	 - Quantity: 54.505418 	 - Time: 2021-11-26T02:25:59Z
+2021/11/26 09:26:00 EXIT: Profit: -1.217947 	 Total Profit: 11.437778 	 -- Comment: Exit SHORT --
+2021/11/26 09:31:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.184000 	 - Quantity: 54.442509 	 - Time: 2021-11-26T02:30:59Z
+2021/11/26 09:31:00 EXIT: Profit: -0.577757 	 Total Profit: 10.860021 	 -- Comment: Exit LONG --
+2021/11/26 09:32:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.170100 	 - Quantity: 54.525032 	 - Time: 2021-11-26T02:31:59Z
+2021/11/26 09:32:00 EXIT: Profit: -0.756751 	 Total Profit: 10.103270 	 -- Comment: Exit SHORT --
+2021/11/26 09:33:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.234600 	 - Quantity: 54.144197 	 - Time: 2021-11-26T02:32:59Z
+2021/11/26 09:33:00 EXIT: Profit: -3.516865 	 Total Profit: 6.586405 	 -- Comment: Exit LONG --
+2021/11/26 09:49:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.306300 	 - Quantity: 53.727045 	 - Time: 2021-11-26T02:48:59Z
+2021/11/26 09:49:00 EXIT: Profit: 3.882139 	 Total Profit: 10.468544 	 -- Comment: Exit SHORT --
+2021/11/26 10:07:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.258100 	 - Quantity: 54.006762 	 - Time: 2021-11-26T03:06:59Z
+2021/11/26 10:07:00 EXIT: Profit: 2.589644 	 Total Profit: 13.058188 	 -- Comment: Exit LONG --
+2021/11/26 10:10:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.245300 	 - Quantity: 54.081533 	 - Time: 2021-11-26T03:09:59Z
+2021/11/26 10:10:00 EXIT: Profit: -0.691287 	 Total Profit: 12.366901 	 -- Comment: Exit SHORT --
+2021/11/26 10:13:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.256000 	 - Quantity: 54.019015 	 - Time: 2021-11-26T03:12:59Z
+2021/11/26 10:13:00 EXIT: Profit: -0.578672 	 Total Profit: 11.788229 	 -- Comment: Exit LONG --
+2021/11/26 10:22:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.289700 	 - Quantity: 53.823051 	 - Time: 2021-11-26T03:21:59Z
+2021/11/26 10:22:00 EXIT: Profit: 1.820441 	 Total Profit: 13.608669 	 -- Comment: Exit SHORT --
+2021/11/26 10:26:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.302400 	 - Quantity: 53.749570 	 - Time: 2021-11-26T03:25:59Z
+2021/11/26 10:26:00 EXIT: Profit: -0.683553 	 Total Profit: 12.925117 	 -- Comment: Exit LONG --
+2021/11/26 10:28:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.284000 	 - Quantity: 53.856097 	 - Time: 2021-11-26T03:27:59Z
+2021/11/26 10:28:01 EXIT: Profit: -0.988992 	 Total Profit: 11.936125 	 -- Comment: Exit SHORT --
+2021/11/26 10:32:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.281100 	 - Quantity: 53.872925 	 - Time: 2021-11-26T03:31:59Z
+2021/11/26 10:32:00 EXIT: Profit: 0.156183 	 Total Profit: 12.092307 	 -- Comment: Exit LONG --
+2021/11/26 10:38:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.276300 	 - Quantity: 53.900801 	 - Time: 2021-11-26T03:37:59Z
+2021/11/26 10:38:00 EXIT: Profit: -0.258590 	 Total Profit: 11.833717 	 -- Comment: Exit SHORT --
+2021/11/26 10:40:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.288100 	 - Quantity: 53.832323 	 - Time: 2021-11-26T03:39:59Z
+2021/11/26 10:40:00 EXIT: Profit: -0.636029 	 Total Profit: 11.197688 	 -- Comment: Exit LONG --
+2021/11/26 10:47:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.275000 	 - Quantity: 53.908356 	 - Time: 2021-11-26T03:46:59Z
+2021/11/26 10:47:00 EXIT: Profit: -0.705203 	 Total Profit: 10.492484 	 -- Comment: Exit SHORT --
+2021/11/26 10:54:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.271700 	 - Quantity: 53.927543 	 - Time: 2021-11-26T03:53:59Z
+2021/11/26 10:54:00 EXIT: Profit: 0.177898 	 Total Profit: 10.670382 	 -- Comment: Exit LONG --
+2021/11/26 10:55:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.256100 	 - Quantity: 54.018431 	 - Time: 2021-11-26T03:54:59Z
+2021/11/26 10:55:00 EXIT: Profit: -0.841270 	 Total Profit: 9.829112 	 -- Comment: Exit SHORT --
+2021/11/26 11:03:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.237400 	 - Quantity: 54.127785 	 - Time: 2021-11-26T04:02:59Z
+2021/11/26 11:03:00 EXIT: Profit: 1.010145 	 Total Profit: 10.839257 	 -- Comment: Exit LONG --
+2021/11/26 11:14:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.218600 	 - Quantity: 54.238171 	 - Time: 2021-11-26T04:13:59Z
+2021/11/26 11:14:00 EXIT: Profit: -1.017602 	 Total Profit: 9.821655 	 -- Comment: Exit LONG --
+2021/11/26 11:23:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.243700 	 - Quantity: 54.090894 	 - Time: 2021-11-26T04:22:59Z
+2021/11/26 11:23:00 EXIT: Profit: 1.361378 	 Total Profit: 11.183033 	 -- Comment: Exit SHORT --
+2021/11/26 11:33:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.212100 	 - Quantity: 54.276441 	 - Time: 2021-11-26T04:32:59Z
+2021/11/26 11:33:00 EXIT: Profit: 1.709272 	 Total Profit: 12.892305 	 -- Comment: Exit SHORT --
+2021/11/26 11:43:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.183300 	 - Quantity: 54.446659 	 - Time: 2021-11-26T04:42:59Z
+2021/11/26 11:43:00 EXIT: Profit: 1.563161 	 Total Profit: 14.455466 	 -- Comment: Exit LONG --
+2021/11/26 11:46:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.171600 	 - Quantity: 54.516115 	 - Time: 2021-11-26T04:45:59Z
+2021/11/26 11:46:00 EXIT: Profit: -0.637026 	 Total Profit: 13.818440 	 -- Comment: Exit SHORT --
+2021/11/26 11:50:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.176600 	 - Quantity: 54.486411 	 - Time: 2021-11-26T04:49:59Z
+2021/11/26 11:50:00 EXIT: Profit: -0.272581 	 Total Profit: 13.545860 	 -- Comment: Exit LONG --
+2021/11/26 11:55:00 EXIT: Profit: -0.899026 	 Total Profit: 12.646834 	 -- Comment: Exit SHORT --
+2021/11/26 11:55:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.160100 	 - Quantity: 54.584557 	 - Time: 2021-11-26T04:54:59Z
+2021/11/26 11:57:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.175800 	 - Quantity: 54.491162 	 - Time: 2021-11-26T04:56:59Z
+2021/11/26 11:57:00 EXIT: Profit: -0.856978 	 Total Profit: 11.789857 	 -- Comment: Exit LONG --
+2021/11/26 11:59:00 EXIT: Profit: -0.920901 	 Total Profit: 10.868956 	 -- Comment: Exit SHORT --
+2021/11/26 11:59:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.158900 	 - Quantity: 54.591709 	 - Time: 2021-11-26T04:58:59Z
+2021/11/26 12:07:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.161100 	 - Quantity: 54.578599 	 - Time: 2021-11-26T05:06:59Z
+2021/11/26 12:07:00 EXIT: Profit: -0.120102 	 Total Profit: 10.748854 	 -- Comment: Exit LONG --
+2021/11/26 12:11:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.141400 	 - Quantity: 54.696217 	 - Time: 2021-11-26T05:10:59Z
+2021/11/26 12:11:00 EXIT: Profit: -1.075198 	 Total Profit: 9.673656 	 -- Comment: Exit SHORT --
+2021/11/26 12:22:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.116900 	 - Quantity: 54.843203 	 - Time: 2021-11-26T05:21:59Z
+2021/11/26 12:22:00 EXIT: Profit: 1.340057 	 Total Profit: 11.013713 	 -- Comment: Exit LONG --
+2021/11/26 12:30:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.115500 	 - Quantity: 54.851626 	 - Time: 2021-11-26T05:29:59Z
+2021/11/26 12:30:00 EXIT: Profit: -0.076780 	 Total Profit: 10.936933 	 -- Comment: Exit SHORT --
+2021/11/26 12:32:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.127900 	 - Quantity: 54.777112 	 - Time: 2021-11-26T05:31:59Z
+2021/11/26 12:32:00 EXIT: Profit: -0.680160 	 Total Profit: 10.256772 	 -- Comment: Exit LONG --
+2021/11/26 12:40:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.131600 	 - Quantity: 54.754917 	 - Time: 2021-11-26T05:39:59Z
+2021/11/26 12:40:00 EXIT: Profit: 0.202675 	 Total Profit: 10.459448 	 -- Comment: Exit SHORT --
+2021/11/26 12:45:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.130500 	 - Quantity: 54.761514 	 - Time: 2021-11-26T05:44:59Z
+2021/11/26 12:45:00 EXIT: Profit: 0.060230 	 Total Profit: 10.519678 	 -- Comment: Exit LONG --
+2021/11/26 12:48:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.126400 	 - Quantity: 54.786115 	 - Time: 2021-11-26T05:47:59Z
+2021/11/26 12:48:00 EXIT: Profit: -0.224522 	 Total Profit: 10.295156 	 -- Comment: Exit SHORT --
+2021/11/26 12:52:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.128100 	 - Quantity: 54.775912 	 - Time: 2021-11-26T05:51:59Z
+2021/11/26 12:52:00 EXIT: Profit: -0.093136 	 Total Profit: 10.202020 	 -- Comment: Exit LONG --
+2021/11/26 12:58:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.096100 	 - Quantity: 54.968613 	 - Time: 2021-11-26T05:57:59Z
+2021/11/26 12:58:01 EXIT: Profit: -1.752829 	 Total Profit: 8.449190 	 -- Comment: Exit SHORT --
+2021/11/26 13:01:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.116700 	 - Quantity: 54.844406 	 - Time: 2021-11-26T06:01:59Z
+2021/11/26 13:01:00 EXIT: Profit: -1.132353 	 Total Profit: 7.316837 	 -- Comment: Exit LONG --
+2021/11/26 13:02:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.124200 	 - Quantity: 54.799325 	 - Time: 2021-11-26T06:01:59Z
+2021/11/26 13:02:00 EXIT: Profit: 0.411333 	 Total Profit: 7.728170 	 -- Comment: Exit LONG --
+2021/11/26 13:05:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.115000 	 - Quantity: 54.854635 	 - Time: 2021-11-26T06:04:59Z
+2021/11/26 13:05:00 EXIT: Profit: -0.504154 	 Total Profit: 7.224016 	 -- Comment: Exit SHORT --
+2021/11/26 13:11:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.102300 	 - Quantity: 54.931171 	 - Time: 2021-11-26T06:10:59Z
+2021/11/26 13:11:00 EXIT: Profit: 0.696654 	 Total Profit: 7.920670 	 -- Comment: Exit LONG --
+2021/11/26 13:17:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.090200 	 - Quantity: 55.004290 	 - Time: 2021-11-26T06:16:59Z
+2021/11/26 13:17:00 EXIT: Profit: -0.664667 	 Total Profit: 7.256003 	 -- Comment: Exit SHORT --
+2021/11/26 13:25:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.076000 	 - Quantity: 55.090348 	 - Time: 2021-11-26T06:25:59Z
+2021/11/26 13:25:00 EXIT: Profit: 0.781061 	 Total Profit: 8.037064 	 -- Comment: Exit SHORT --
+2021/11/26 13:32:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.087200 	 - Quantity: 55.022449 	 - Time: 2021-11-26T06:31:59Z
+2021/11/26 13:32:00 EXIT: Profit: -0.617012 	 Total Profit: 7.420052 	 -- Comment: Exit SHORT --
+2021/11/26 13:35:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.098000 	 - Quantity: 54.957133 	 - Time: 2021-11-26T06:34:59Z
+2021/11/26 13:35:00 EXIT: Profit: -0.594242 	 Total Profit: 6.825810 	 -- Comment: Exit LONG --
+2021/11/26 13:36:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.092600 	 - Quantity: 54.989772 	 - Time: 2021-11-26T06:35:59Z
+2021/11/26 13:36:00 EXIT: Profit: -0.296769 	 Total Profit: 6.529041 	 -- Comment: Exit SHORT --
+2021/11/26 13:45:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.055300 	 - Quantity: 55.216282 	 - Time: 2021-11-26T06:44:59Z
+2021/11/26 13:45:00 EXIT: Profit: 2.051118 	 Total Profit: 8.580159 	 -- Comment: Exit LONG --
+2021/11/26 13:55:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.048100 	 - Quantity: 55.260220 	 - Time: 2021-11-26T06:54:59Z
+2021/11/26 13:55:00 EXIT: Profit: -0.397557 	 Total Profit: 8.182602 	 -- Comment: Exit SHORT --
+2021/11/26 13:59:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.067600 	 - Quantity: 55.141383 	 - Time: 2021-11-26T06:58:59Z
+2021/11/26 13:59:00 EXIT: Profit: -1.077574 	 Total Profit: 7.105028 	 -- Comment: Exit LONG --
+2021/11/26 14:01:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.054300 	 - Quantity: 55.222381 	 - Time: 2021-11-26T07:00:59Z
+2021/11/26 14:01:00 EXIT: Profit: -0.733380 	 Total Profit: 6.371648 	 -- Comment: Exit SHORT --
+2021/11/26 14:02:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.071000 	 - Quantity: 55.120714 	 - Time: 2021-11-26T07:01:59Z
+2021/11/26 14:02:00 EXIT: Profit: -0.922214 	 Total Profit: 5.449434 	 -- Comment: Exit LONG --
+2021/11/26 14:06:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.059800 	 - Quantity: 55.188856 	 - Time: 2021-11-26T07:05:59Z
+2021/11/26 14:06:00 EXIT: Profit: -0.617352 	 Total Profit: 4.832082 	 -- Comment: Exit SHORT --
+2021/11/26 14:11:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.064700 	 - Quantity: 55.159023 	 - Time: 2021-11-26T07:10:59Z
+2021/11/26 14:11:00 EXIT: Profit: -0.270425 	 Total Profit: 4.561656 	 -- Comment: Exit LONG --
+2021/11/26 14:14:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.058100 	 - Quantity: 55.199214 	 - Time: 2021-11-26T07:13:59Z
+2021/11/26 14:14:00 EXIT: Profit: -0.364050 	 Total Profit: 4.197607 	 -- Comment: Exit SHORT --
+2021/11/26 14:23:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.053500 	 - Quantity: 55.227260 	 - Time: 2021-11-26T07:22:59Z
+2021/11/26 14:23:00 EXIT: Profit: 0.253916 	 Total Profit: 4.451523 	 -- Comment: Exit LONG --
+2021/11/26 14:26:01 EXIT: Profit: -0.949909 	 Total Profit: 3.501614 	 -- Comment: Exit SHORT --
+2021/11/26 14:26:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.036300 	 - Quantity: 55.332382 	 - Time: 2021-11-26T07:25:59Z
+2021/11/26 14:33:00 EXIT: Profit: -0.509058 	 Total Profit: 2.992556 	 -- Comment: Exit LONG --
+2021/11/26 14:33:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 9.045500 	 - Quantity: 55.276104 	 - Time: 2021-11-26T07:32:59Z
+2021/11/26 14:34:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 9.031600 	 - Quantity: 55.361176 	 - Time: 2021-11-26T07:33:59Z
+2021/11/26 14:34:01 EXIT: Profit: -0.768338 	 Total Profit: 2.224219 	 -- Comment: Exit SHORT --
+2021/11/26 14:47:00 EXIT: Profit: 7.567873 	 Total Profit: 9.792091 	 -- Comment: Exit LONG --
+2021/11/26 14:47:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.894900 	 - Quantity: 56.211987 	 - Time: 2021-11-26T07:46:59Z
+2021/11/26 14:48:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.855700 	 - Quantity: 56.460811 	 - Time: 2021-11-26T07:47:59Z
+2021/11/26 14:48:00 EXIT: Profit: -2.203510 	 Total Profit: 7.588582 	 -- Comment: Exit SHORT --
+2021/11/26 14:53:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.815300 	 - Quantity: 56.719567 	 - Time: 2021-11-26T07:52:59Z
+2021/11/26 14:53:00 EXIT: Profit: 2.281017 	 Total Profit: 9.869598 	 -- Comment: Exit LONG --
+2021/11/26 14:54:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.810600 	 - Quantity: 56.749824 	 - Time: 2021-11-26T07:53:59Z
+2021/11/26 14:54:00 EXIT: Profit: -0.266582 	 Total Profit: 9.603016 	 -- Comment: Exit SHORT --
+2021/11/26 14:55:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.813600 	 - Quantity: 56.730507 	 - Time: 2021-11-26T07:55:59Z
+2021/11/26 14:55:00 EXIT: Profit: -0.170249 	 Total Profit: 9.432767 	 -- Comment: Exit SHORT --
+2021/11/26 15:01:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.831800 	 - Quantity: 56.613601 	 - Time: 2021-11-26T08:01:59Z
+2021/11/26 15:01:00 EXIT: Profit: -1.032495 	 Total Profit: 8.400272 	 -- Comment: Exit SHORT --
+2021/11/26 15:02:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.796800 	 - Quantity: 56.838850 	 - Time: 2021-11-26T08:01:59Z
+2021/11/26 15:02:00 EXIT: Profit: 1.981476 	 Total Profit: 10.381748 	 -- Comment: Exit SHORT --
+2021/11/26 15:13:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.688700 	 - Quantity: 57.546008 	 - Time: 2021-11-26T08:12:59Z
+2021/11/26 15:13:00 EXIT: Profit: 6.144280 	 Total Profit: 16.526027 	 -- Comment: Exit LONG --
+2021/11/26 15:14:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.687400 	 - Quantity: 57.554619 	 - Time: 2021-11-26T08:13:59Z
+2021/11/26 15:14:00 EXIT: Profit: -0.074810 	 Total Profit: 16.451218 	 -- Comment: Exit SHORT --
+2021/11/26 15:25:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.329900 	 - Quantity: 60.024730 	 - Time: 2021-11-26T08:24:59Z
+2021/11/26 15:25:00 EXIT: Profit: 20.575776 	 Total Profit: 37.026994 	 -- Comment: Exit LONG --
+2021/11/26 15:26:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.218100 	 - Quantity: 60.841314 	 - Time: 2021-11-26T08:25:59Z
+2021/11/26 15:26:00 EXIT: Profit: -6.710765 	 Total Profit: 30.316229 	 -- Comment: Exit SHORT --
+2021/11/26 15:30:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.151100 	 - Quantity: 61.341414 	 - Time: 2021-11-26T08:29:59Z
+2021/11/26 15:30:00 EXIT: Profit: 4.076368 	 Total Profit: 34.392597 	 -- Comment: Exit LONG --
+2021/11/26 15:35:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.205700 	 - Quantity: 60.933254 	 - Time: 2021-11-26T08:34:59Z
+2021/11/26 15:35:00 EXIT: Profit: 3.349241 	 Total Profit: 37.741838 	 -- Comment: Exit SHORT --
+2021/11/26 15:39:00 EXIT: Profit: 0.621519 	 Total Profit: 38.363358 	 -- Comment: Exit LONG --
+2021/11/26 15:39:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.195500 	 - Quantity: 61.009090 	 - Time: 2021-11-26T08:38:59Z
+2021/11/26 15:57:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.286500 	 - Quantity: 60.339106 	 - Time: 2021-11-26T08:56:59Z
+2021/11/26 15:57:00 EXIT: Profit: 5.551827 	 Total Profit: 43.915185 	 -- Comment: Exit LONG --
+2021/11/26 16:06:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.268300 	 - Quantity: 60.471923 	 - Time: 2021-11-26T09:05:59Z
+2021/11/26 16:06:00 EXIT: Profit: -1.098172 	 Total Profit: 42.817013 	 -- Comment: Exit SHORT --
+2021/11/26 16:12:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.341500 	 - Quantity: 59.941258 	 - Time: 2021-11-26T09:11:59Z
+2021/11/26 16:12:00 EXIT: Profit: -4.426545 	 Total Profit: 38.390468 	 -- Comment: Exit LONG --
+2021/11/26 16:22:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.341100 	 - Quantity: 59.944132 	 - Time: 2021-11-26T09:21:59Z
+2021/11/26 16:22:00 EXIT: Profit: -0.023977 	 Total Profit: 38.366492 	 -- Comment: Exit SHORT --
+2021/11/26 16:39:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.307200 	 - Quantity: 60.188752 	 - Time: 2021-11-26T09:38:59Z
+2021/11/26 16:39:01 EXIT: Profit: 2.032106 	 Total Profit: 40.398598 	 -- Comment: Exit LONG --
+2021/11/26 16:48:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.344200 	 - Quantity: 59.921862 	 - Time: 2021-11-26T09:47:59Z
+2021/11/26 16:48:00 EXIT: Profit: 2.226984 	 Total Profit: 42.625582 	 -- Comment: Exit SHORT --
+2021/11/26 16:58:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.295900 	 - Quantity: 60.270736 	 - Time: 2021-11-26T09:57:59Z
+2021/11/26 16:58:00 EXIT: Profit: 2.894226 	 Total Profit: 45.519808 	 -- Comment: Exit LONG --
+2021/11/26 17:11:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.315400 	 - Quantity: 60.129398 	 - Time: 2021-11-26T10:10:59Z
+2021/11/26 17:11:00 EXIT: Profit: 1.175279 	 Total Profit: 46.695087 	 -- Comment: Exit LONG --
+2021/11/26 17:14:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.256300 	 - Quantity: 60.559815 	 - Time: 2021-11-26T10:13:59Z
+2021/11/26 17:14:00 EXIT: Profit: -3.553647 	 Total Profit: 43.141440 	 -- Comment: Exit SHORT --
+2021/11/26 17:18:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.274500 	 - Quantity: 60.426612 	 - Time: 2021-11-26T10:18:59Z
+2021/11/26 17:18:00 EXIT: Profit: -1.102189 	 Total Profit: 42.039251 	 -- Comment: Exit LONG --
+2021/11/26 17:19:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.290100 	 - Quantity: 60.312903 	 - Time: 2021-11-26T10:18:59Z
+2021/11/26 17:19:01 EXIT: Profit: 0.942655 	 Total Profit: 42.981906 	 -- Comment: Exit LONG --
+2021/11/26 17:25:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.275800 	 - Quantity: 60.417120 	 - Time: 2021-11-26T10:24:59Z
+2021/11/26 17:25:00 EXIT: Profit: -0.862475 	 Total Profit: 42.119432 	 -- Comment: Exit SHORT --
+2021/11/26 17:30:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.276300 	 - Quantity: 60.413470 	 - Time: 2021-11-26T10:29:59Z
+2021/11/26 17:30:00 EXIT: Profit: -0.030209 	 Total Profit: 42.089223 	 -- Comment: Exit LONG --
+2021/11/26 17:33:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.256400 	 - Quantity: 60.559081 	 - Time: 2021-11-26T10:32:59Z
+2021/11/26 17:33:00 EXIT: Profit: -1.202228 	 Total Profit: 40.886995 	 -- Comment: Exit SHORT --
+2021/11/26 17:38:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.274600 	 - Quantity: 60.425882 	 - Time: 2021-11-26T10:37:59Z
+2021/11/26 17:38:00 EXIT: Profit: -1.102175 	 Total Profit: 39.784820 	 -- Comment: Exit LONG --
+2021/11/26 17:43:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.267700 	 - Quantity: 60.476311 	 - Time: 2021-11-26T10:42:59Z
+2021/11/26 17:43:00 EXIT: Profit: -0.416939 	 Total Profit: 39.367881 	 -- Comment: Exit SHORT --
+2021/11/26 17:53:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.233100 	 - Quantity: 60.730466 	 - Time: 2021-11-26T10:52:59Z
+2021/11/26 17:53:00 EXIT: Profit: 2.092480 	 Total Profit: 41.460361 	 -- Comment: Exit LONG --
+2021/11/26 18:04:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.200500 	 - Quantity: 60.971892 	 - Time: 2021-11-26T11:03:59Z
+2021/11/26 18:04:00 EXIT: Profit: -1.979813 	 Total Profit: 39.480548 	 -- Comment: Exit SHORT --
+2021/11/26 18:15:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.168700 	 - Quantity: 61.209250 	 - Time: 2021-11-26T11:14:59Z
+2021/11/26 18:15:00 EXIT: Profit: 1.938906 	 Total Profit: 41.419454 	 -- Comment: Exit LONG --
+2021/11/26 18:33:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.251800 	 - Quantity: 60.592840 	 - Time: 2021-11-26T11:32:59Z
+2021/11/26 18:33:00 EXIT: Profit: 5.086489 	 Total Profit: 46.505943 	 -- Comment: Exit SHORT --
+2021/11/26 18:49:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.204400 	 - Quantity: 60.942909 	 - Time: 2021-11-26T11:48:59Z
+2021/11/26 18:49:00 EXIT: Profit: 2.872101 	 Total Profit: 49.378044 	 -- Comment: Exit SHORT --
+2021/11/26 18:50:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.202500 	 - Quantity: 60.957025 	 - Time: 2021-11-26T11:49:59Z
+2021/11/26 18:50:00 EXIT: Profit: 0.115792 	 Total Profit: 49.493835 	 -- Comment: Exit LONG --
+2021/11/26 18:51:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.197300 	 - Quantity: 60.995694 	 - Time: 2021-11-26T11:51:59Z
+2021/11/26 18:51:00 EXIT: Profit: -0.316977 	 Total Profit: 49.176859 	 -- Comment: Exit SHORT --
+2021/11/26 18:52:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.193700 	 - Quantity: 61.022493 	 - Time: 2021-11-26T11:51:59Z
+2021/11/26 18:52:00 EXIT: Profit: 0.219584 	 Total Profit: 49.396443 	 -- Comment: Exit SHORT --
+2021/11/26 19:03:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.133200 	 - Quantity: 61.476418 	 - Time: 2021-11-26T12:02:59Z
+2021/11/26 19:03:00 EXIT: Profit: 3.691861 	 Total Profit: 53.088304 	 -- Comment: Exit SHORT --
+2021/11/26 19:08:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.116200 	 - Quantity: 61.605185 	 - Time: 2021-11-26T12:07:59Z
+2021/11/26 19:08:00 EXIT: Profit: 1.045099 	 Total Profit: 54.133403 	 -- Comment: Exit LONG --
+2021/11/26 19:09:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.139000 	 - Quantity: 61.432608 	 - Time: 2021-11-26T12:08:59Z
+2021/11/26 19:09:01 EXIT: Profit: 1.404598 	 Total Profit: 55.538001 	 -- Comment: Exit SHORT --
+2021/11/26 19:10:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.138000 	 - Quantity: 61.440157 	 - Time: 2021-11-26T12:09:59Z
+2021/11/26 19:10:00 EXIT: Profit: 0.061433 	 Total Profit: 55.599434 	 -- Comment: Exit LONG --
+2021/11/26 19:11:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.118200 	 - Quantity: 61.590008 	 - Time: 2021-11-26T12:10:59Z
+2021/11/26 19:11:00 EXIT: Profit: -1.216515 	 Total Profit: 54.382919 	 -- Comment: Exit SHORT --
+2021/11/26 19:16:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.145200 	 - Quantity: 61.385847 	 - Time: 2021-11-26T12:15:59Z
+2021/11/26 19:16:00 EXIT: Profit: -1.662930 	 Total Profit: 52.719989 	 -- Comment: Exit LONG --
+2021/11/26 19:30:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.241800 	 - Quantity: 60.666359 	 - Time: 2021-11-26T12:29:59Z
+2021/11/26 19:30:00 EXIT: Profit: 5.929873 	 Total Profit: 58.649861 	 -- Comment: Exit SHORT --
+2021/11/26 19:31:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.256000 	 - Quantity: 60.562016 	 - Time: 2021-11-26T12:30:59Z
+2021/11/26 19:31:00 EXIT: Profit: -0.861462 	 Total Profit: 57.788399 	 -- Comment: Exit LONG --
+2021/11/26 19:39:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.258800 	 - Quantity: 60.541483 	 - Time: 2021-11-26T12:38:59Z
+2021/11/26 19:39:00 EXIT: Profit: 0.169574 	 Total Profit: 57.957973 	 -- Comment: Exit SHORT --
+2021/11/26 19:47:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.264900 	 - Quantity: 60.496800 	 - Time: 2021-11-26T12:46:59Z
+2021/11/26 19:47:00 EXIT: Profit: -0.369303 	 Total Profit: 57.588670 	 -- Comment: Exit LONG --
+2021/11/26 19:50:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.223400 	 - Quantity: 60.802101 	 - Time: 2021-11-26T12:49:59Z
+2021/11/26 19:50:00 EXIT: Profit: -2.510617 	 Total Profit: 55.078053 	 -- Comment: Exit SHORT --
+2021/11/26 19:52:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.255000 	 - Quantity: 60.569352 	 - Time: 2021-11-26T12:51:59Z
+2021/11/26 19:52:00 EXIT: Profit: -1.921346 	 Total Profit: 53.156706 	 -- Comment: Exit LONG --
+2021/11/26 20:02:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.289100 	 - Quantity: 60.320180 	 - Time: 2021-11-26T13:01:59Z
+2021/11/26 20:02:00 EXIT: Profit: 2.065415 	 Total Profit: 55.222121 	 -- Comment: Exit SHORT --
+2021/11/26 20:20:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.269800 	 - Quantity: 60.460954 	 - Time: 2021-11-26T13:19:59Z
+2021/11/26 20:20:01 EXIT: Profit: 1.164179 	 Total Profit: 56.386300 	 -- Comment: Exit LONG --
+2021/11/26 20:27:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.264500 	 - Quantity: 60.499728 	 - Time: 2021-11-26T13:26:59Z
+2021/11/26 20:27:00 EXIT: Profit: -0.320443 	 Total Profit: 56.065857 	 -- Comment: Exit SHORT --
+2021/11/26 20:29:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.282600 	 - Quantity: 60.367517 	 - Time: 2021-11-26T13:28:59Z
+2021/11/26 20:29:00 EXIT: Profit: -1.095045 	 Total Profit: 54.970812 	 -- Comment: Exit LONG --
+2021/11/26 20:40:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.308000 	 - Quantity: 60.182956 	 - Time: 2021-11-26T13:39:59Z
+2021/11/26 20:40:00 EXIT: Profit: 1.533335 	 Total Profit: 56.504147 	 -- Comment: Exit LONG --
+2021/11/26 20:52:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.347300 	 - Quantity: 59.899608 	 - Time: 2021-11-26T13:51:59Z
+2021/11/26 20:52:00 EXIT: Profit: 2.365190 	 Total Profit: 58.869337 	 -- Comment: Exit SHORT --
+2021/11/26 20:55:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.365000 	 - Quantity: 59.772863 	 - Time: 2021-11-26T13:54:59Z
+2021/11/26 20:55:00 EXIT: Profit: -1.060223 	 Total Profit: 57.809114 	 -- Comment: Exit LONG --
+2021/11/26 21:01:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.369600 	 - Quantity: 59.740011 	 - Time: 2021-11-26T14:00:59Z
+2021/11/26 21:01:00 EXIT: Profit: 0.274955 	 Total Profit: 58.084070 	 -- Comment: Exit SHORT --
+2021/11/26 21:09:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.369000 	 - Quantity: 59.744294 	 - Time: 2021-11-26T14:08:59Z
+2021/11/26 21:09:00 EXIT: Profit: 0.035844 	 Total Profit: 58.119914 	 -- Comment: Exit LONG --
+2021/11/26 21:16:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.369600 	 - Quantity: 59.740011 	 - Time: 2021-11-26T14:15:59Z
+2021/11/26 21:16:00 EXIT: Profit: 0.035847 	 Total Profit: 58.155760 	 -- Comment: Exit SHORT --
+2021/11/26 21:20:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.393800 	 - Quantity: 59.567776 	 - Time: 2021-11-26T14:19:59Z
+2021/11/26 21:20:00 EXIT: Profit: -1.445708 	 Total Profit: 56.710052 	 -- Comment: Exit LONG --
+2021/11/26 21:42:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.431900 	 - Quantity: 59.298616 	 - Time: 2021-11-26T14:41:59Z
+2021/11/26 21:42:01 EXIT: Profit: 2.269532 	 Total Profit: 58.979584 	 -- Comment: Exit SHORT --
+2021/11/26 21:55:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.379000 	 - Quantity: 59.672992 	 - Time: 2021-11-26T14:54:59Z
+2021/11/26 21:55:00 EXIT: Profit: 3.136897 	 Total Profit: 62.116481 	 -- Comment: Exit LONG --
+2021/11/26 21:57:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.359800 	 - Quantity: 59.810043 	 - Time: 2021-11-26T14:56:59Z
+2021/11/26 21:57:00 EXIT: Profit: -1.145721 	 Total Profit: 60.970760 	 -- Comment: Exit SHORT --
+2021/11/26 21:59:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.374300 	 - Quantity: 59.706483 	 - Time: 2021-11-26T14:58:59Z
+2021/11/26 21:59:01 EXIT: Profit: -0.867246 	 Total Profit: 60.103514 	 -- Comment: Exit LONG --
+2021/11/26 22:00:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.356600 	 - Quantity: 59.832946 	 - Time: 2021-11-26T14:59:59Z
+2021/11/26 22:00:00 EXIT: Profit: -1.056805 	 Total Profit: 59.046709 	 -- Comment: Exit SHORT --
+2021/11/26 22:08:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.331500 	 - Quantity: 60.013203 	 - Time: 2021-11-26T15:07:59Z
+2021/11/26 22:08:00 EXIT: Profit: 1.501807 	 Total Profit: 60.548516 	 -- Comment: Exit SHORT --
+2021/11/26 22:22:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.304700 	 - Quantity: 60.206871 	 - Time: 2021-11-26T15:21:59Z
+2021/11/26 22:22:00 EXIT: Profit: 1.608354 	 Total Profit: 62.156870 	 -- Comment: Exit LONG --
+2021/11/26 22:26:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.311400 	 - Quantity: 60.158337 	 - Time: 2021-11-26T15:25:59Z
+2021/11/26 22:26:00 EXIT: Profit: 0.403386 	 Total Profit: 62.560256 	 -- Comment: Exit SHORT --
+2021/11/26 22:27:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.311800 	 - Quantity: 60.155442 	 - Time: 2021-11-26T15:26:59Z
+2021/11/26 22:27:00 EXIT: Profit: -0.024063 	 Total Profit: 62.536193 	 -- Comment: Exit LONG --
+2021/11/26 22:30:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.303800 	 - Quantity: 60.213396 	 - Time: 2021-11-26T15:29:59Z
+2021/11/26 22:30:00 EXIT: Profit: -0.481244 	 Total Profit: 62.054949 	 -- Comment: Exit SHORT --
+2021/11/26 22:35:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.301200 	 - Quantity: 60.232256 	 - Time: 2021-11-26T15:34:59Z
+2021/11/26 22:35:00 EXIT: Profit: 0.156555 	 Total Profit: 62.211504 	 -- Comment: Exit LONG --
+2021/11/26 22:39:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.303600 	 - Quantity: 60.214847 	 - Time: 2021-11-26T15:39:59Z
+2021/11/26 22:39:00 EXIT: Profit: 0.144557 	 Total Profit: 62.356061 	 -- Comment: Exit SHORT --
+2021/11/26 22:40:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.280800 	 - Quantity: 60.380640 	 - Time: 2021-11-26T15:39:59Z
+2021/11/26 22:40:00 EXIT: Profit: 1.372899 	 Total Profit: 63.728960 	 -- Comment: Exit SHORT --
+2021/11/26 22:45:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.299100 	 - Quantity: 60.247497 	 - Time: 2021-11-26T15:44:59Z
+2021/11/26 22:45:00 EXIT: Profit: -1.104966 	 Total Profit: 62.623994 	 -- Comment: Exit LONG --
+2021/11/26 22:49:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.283600 	 - Quantity: 60.360230 	 - Time: 2021-11-26T15:48:59Z
+2021/11/26 22:49:00 EXIT: Profit: -0.933836 	 Total Profit: 61.690158 	 -- Comment: Exit SHORT --
+2021/11/26 22:52:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.306100 	 - Quantity: 60.196723 	 - Time: 2021-11-26T15:51:59Z
+2021/11/26 22:52:00 EXIT: Profit: -1.358105 	 Total Profit: 60.332053 	 -- Comment: Exit LONG --
+2021/11/26 22:58:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.307300 	 - Quantity: 60.188027 	 - Time: 2021-11-26T15:57:59Z
+2021/11/26 22:58:00 EXIT: Profit: 0.072236 	 Total Profit: 60.404289 	 -- Comment: Exit SHORT --
+2021/11/26 23:07:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.283400 	 - Quantity: 60.361687 	 - Time: 2021-11-26T16:06:59Z
+2021/11/26 23:07:00 EXIT: Profit: 1.438494 	 Total Profit: 61.842783 	 -- Comment: Exit LONG --
+2021/11/26 23:09:04 Start: 2021-11-26T16:09:04Z
+2021/11/26 23:12:51 Start: 2021-11-26T16:12:51Z
+2021/11/26 23:14:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.283200 	 - Quantity: 60.363145 	 - Time: 2021-11-26T16:13:59Z
+2021/11/26 23:14:00 EXIT: Profit: -0.012072 	 Total Profit: 61.830710 	 -- Comment: Exit SHORT --
+2021/11/26 23:18:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.281200 	 - Quantity: 60.377723 	 - Time: 2021-11-26T16:17:59Z
+2021/11/26 23:18:00 EXIT: Profit: 0.120726 	 Total Profit: 61.951437 	 -- Comment: Exit LONG --
+2021/11/26 23:19:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.270900 	 - Quantity: 60.452913 	 - Time: 2021-11-26T16:18:59Z
+2021/11/26 23:19:00 EXIT: Profit: -0.621891 	 Total Profit: 61.329546 	 -- Comment: Exit SHORT --
+2021/11/26 23:26:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.264400 	 - Quantity: 60.500460 	 - Time: 2021-11-26T16:25:59Z
+2021/11/26 23:26:00 EXIT: Profit: 0.392944 	 Total Profit: 61.722490 	 -- Comment: Exit LONG --
+2021/11/26 23:42:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.326800 	 - Quantity: 60.047077 	 - Time: 2021-11-26T16:41:59Z
+2021/11/26 23:42:00 EXIT: Profit: 3.775229 	 Total Profit: 65.497719 	 -- Comment: Exit SHORT --
+2021/11/26 23:45:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.348800 	 - Quantity: 59.888846 	 - Time: 2021-11-26T16:44:59Z
+2021/11/26 23:45:00 EXIT: Profit: -1.321036 	 Total Profit: 64.176683 	 -- Comment: Exit LONG --
+2021/11/26 23:52:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.352900 	 - Quantity: 59.859450 	 - Time: 2021-11-26T16:51:59Z
+2021/11/26 23:52:00 EXIT: Profit: 0.245544 	 Total Profit: 64.422227 	 -- Comment: Exit SHORT --
+2021/11/27 00:02:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.359300 	 - Quantity: 59.813621 	 - Time: 2021-11-26T17:01:59Z
+2021/11/27 00:02:00 EXIT: Profit: -0.383100 	 Total Profit: 64.039127 	 -- Comment: Exit LONG --
+2021/11/27 00:03:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.332100 	 - Quantity: 60.008881 	 - Time: 2021-11-26T17:02:59Z
+2021/11/27 00:03:00 EXIT: Profit: -1.626930 	 Total Profit: 62.412196 	 -- Comment: Exit SHORT --
+2021/11/27 00:08:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.342200 	 - Quantity: 59.936228 	 - Time: 2021-11-26T17:08:59Z
+2021/11/27 00:08:01 EXIT: Profit: -0.606090 	 Total Profit: 61.806107 	 -- Comment: Exit LONG --
+2021/11/27 00:09:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.352200 	 - Quantity: 59.864467 	 - Time: 2021-11-26T17:08:59Z
+2021/11/27 00:09:00 EXIT: Profit: 0.599362 	 Total Profit: 62.405469 	 -- Comment: Exit LONG --
+2021/11/27 00:22:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.338900 	 - Quantity: 59.959947 	 - Time: 2021-11-26T17:21:59Z
+2021/11/27 00:22:00 EXIT: Profit: -0.796197 	 Total Profit: 61.609272 	 -- Comment: Exit SHORT --
+2021/11/27 00:28:04 Start: 2021-11-26T17:28:04Z
+2021/11/27 00:29:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.345900 	 - Quantity: 59.909656 	 - Time: 2021-11-26T17:28:59Z
+2021/11/27 00:29:01 EXIT: Profit: -0.419720 	 Total Profit: 61.189552 	 -- Comment: Exit LONG --
+2021/11/27 00:29:50 Start: 2021-11-26T17:29:50Z
+2021/11/27 00:30:00 1000SHIBUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 0.038473 	 - Quantity: 12996.127154 	 - Time: 2021-11-26T17:29:59Z
+2021/11/27 00:32:51 Start: 2021-11-26T17:32:51Z
+2021/11/27 00:33:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.344900 	 - Quantity: 59.916835 	 - Time: 2021-11-26T17:32:59Z
+2021/11/27 00:33:00 EXIT: Profit: -0.059910 	 Total Profit: 61.129642 	 -- Comment: Exit SHORT --
+2021/11/27 00:33:01 1000SHIBUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 0.038500 	 - Quantity: 12987.012987 	 - Time: 2021-11-26T17:32:59Z
+2021/11/27 00:33:33 Start: 2021-11-26T17:33:33Z
+2021/11/27 00:34:01 1000SHIBUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 0.038504 	 - Quantity: 12985.663827 	 - Time: 2021-11-26T17:34:59Z
+2021/11/27 00:35:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.358300 	 - Quantity: 59.820777 	 - Time: 2021-11-26T17:34:59Z
+2021/11/27 00:35:00 EXIT: Profit: -0.802886 	 Total Profit: 60.326757 	 -- Comment: Exit LONG --
+2021/11/27 00:42:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.372100 	 - Quantity: 59.722172 	 - Time: 2021-11-26T17:41:59Z
+2021/11/27 00:42:00 EXIT: Profit: 0.825527 	 Total Profit: 61.152283 	 -- Comment: Exit SHORT --
+2021/11/27 00:59:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.319700 	 - Quantity: 60.098321 	 - Time: 2021-11-26T17:58:59Z
+2021/11/27 00:59:01 EXIT: Profit: 3.129442 	 Total Profit: 64.281725 	 -- Comment: Exit LONG --
+2021/11/27 01:00:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.312700 	 - Quantity: 60.148929 	 - Time: 2021-11-26T17:59:59Z
+2021/11/27 01:00:00 EXIT: Profit: -0.420688 	 Total Profit: 63.861037 	 -- Comment: Exit SHORT --
+2021/11/27 01:12:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.304400 	 - Quantity: 60.209046 	 - Time: 2021-11-26T18:11:59Z
+2021/11/27 01:12:00 EXIT: Profit: 0.499236 	 Total Profit: 64.360273 	 -- Comment: Exit LONG --
+2021/11/27 01:15:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.297800 	 - Quantity: 60.256936 	 - Time: 2021-11-26T18:14:59Z
+2021/11/27 01:15:00 EXIT: Profit: -0.397380 	 Total Profit: 63.962893 	 -- Comment: Exit SHORT --
+2021/11/27 01:16:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.293200 	 - Quantity: 60.290358 	 - Time: 2021-11-26T18:15:59Z
+2021/11/27 01:16:00 EXIT: Profit: 0.277182 	 Total Profit: 64.240075 	 -- Comment: Exit LONG --
+2021/11/27 01:17:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.292400 	 - Quantity: 60.296175 	 - Time: 2021-11-26T18:16:59Z
+2021/11/27 01:17:00 EXIT: Profit: -0.048232 	 Total Profit: 64.191843 	 -- Comment: Exit SHORT --
+2021/11/27 01:27:21 Start: 2021-11-26T18:27:21Z
+2021/11/27 01:28:01 1000SHIBUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 0.038122 	 - Quantity: 13115.786160 	 - Time: 2021-11-26T18:27:59Z
+2021/11/27 01:32:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.240300 	 - Quantity: 60.677403 	 - Time: 2021-11-26T18:31:59Z
+2021/11/27 01:32:00 EXIT: Profit: 3.141431 	 Total Profit: 67.333274 	 -- Comment: Exit LONG --
+2021/11/27 01:34:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.238000 	 - Quantity: 60.694343 	 - Time: 2021-11-26T18:33:59Z
+2021/11/27 01:34:01 EXIT: Profit: -0.139558 	 Total Profit: 67.193716 	 -- Comment: Exit SHORT --
+2021/11/27 01:35:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.246100 	 - Quantity: 60.634724 	 - Time: 2021-11-26T18:34:59Z
+2021/11/27 01:35:00 EXIT: Profit: -0.491624 	 Total Profit: 66.702091 	 -- Comment: Exit LONG --
+2021/11/27 01:46:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.300300 	 - Quantity: 60.238787 	 - Time: 2021-11-26T18:46:59Z
+2021/11/27 01:46:00 EXIT: Profit: 3.286402 	 Total Profit: 69.988494 	 -- Comment: Exit SHORT --
+2021/11/27 01:52:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.309200 	 - Quantity: 60.174265 	 - Time: 2021-11-26T18:52:59Z
+2021/11/27 01:52:00 EXIT: Profit: -0.536125 	 Total Profit: 69.452368 	 -- Comment: Exit SHORT --
+2021/11/27 01:55:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.305300 	 - Quantity: 60.202521 	 - Time: 2021-11-26T18:54:59Z
+2021/11/27 01:55:00 EXIT: Profit: 0.234680 	 Total Profit: 69.687048 	 -- Comment: Exit SHORT --
+2021/11/27 01:57:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.326800 	 - Quantity: 60.047077 	 - Time: 2021-11-26T18:56:59Z
+2021/11/27 01:57:00 EXIT: Profit: -1.294354 	 Total Profit: 68.392694 	 -- Comment: Exit LONG --
+2021/11/27 01:59:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.295900 	 - Quantity: 60.270736 	 - Time: 2021-11-26T18:58:59Z
+2021/11/27 01:59:00 EXIT: Profit: -1.855455 	 Total Profit: 66.537239 	 -- Comment: Exit SHORT --
+2021/11/27 02:03:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.316000 	 - Quantity: 60.125060 	 - Time: 2021-11-26T19:02:59Z
+2021/11/27 02:03:00 EXIT: Profit: -1.211442 	 Total Profit: 65.325797 	 -- Comment: Exit LONG --
+2021/11/27 02:08:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.309100 	 - Quantity: 60.174989 	 - Time: 2021-11-26T19:07:59Z
+2021/11/27 02:08:00 EXIT: Profit: -0.414863 	 Total Profit: 64.910934 	 -- Comment: Exit SHORT --
+2021/11/27 02:09:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.317500 	 - Quantity: 60.114217 	 - Time: 2021-11-26T19:08:59Z
+2021/11/27 02:09:00 EXIT: Profit: -0.505470 	 Total Profit: 64.405464 	 -- Comment: Exit LONG --
+2021/11/27 02:29:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.356200 	 - Quantity: 59.835811 	 - Time: 2021-11-26T19:28:59Z
+2021/11/27 02:29:01 EXIT: Profit: 2.326420 	 Total Profit: 66.731885 	 -- Comment: Exit SHORT --
+2021/11/27 02:31:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.370800 	 - Quantity: 59.731447 	 - Time: 2021-11-26T19:30:59Z
+2021/11/27 02:31:00 EXIT: Profit: -0.873603 	 Total Profit: 65.858282 	 -- Comment: Exit LONG --
+2021/11/27 02:36:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.369400 	 - Quantity: 59.741439 	 - Time: 2021-11-26T19:35:59Z
+2021/11/27 02:36:00 EXIT: Profit: -0.083624 	 Total Profit: 65.774658 	 -- Comment: Exit SHORT --
+2021/11/27 02:39:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.380300 	 - Quantity: 59.663735 	 - Time: 2021-11-26T19:38:59Z
+2021/11/27 02:39:00 EXIT: Profit: -0.651182 	 Total Profit: 65.123476 	 -- Comment: Exit LONG --
+2021/11/27 02:42:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.376700 	 - Quantity: 59.689376 	 - Time: 2021-11-26T19:41:59Z
+2021/11/27 02:42:00 EXIT: Profit: -0.214789 	 Total Profit: 64.908687 	 -- Comment: Exit SHORT --
+2021/11/27 02:46:00 EXIT: Profit: -0.268602 	 Total Profit: 64.640084 	 -- Comment: Exit LONG --
+2021/11/27 02:46:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.381200 	 - Quantity: 59.657328 	 - Time: 2021-11-26T19:45:59Z
+2021/11/27 02:47:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.362800 	 - Quantity: 59.788588 	 - Time: 2021-11-26T19:46:59Z
+2021/11/27 02:47:00 EXIT: Profit: -1.097695 	 Total Profit: 63.542390 	 -- Comment: Exit SHORT --
+2021/11/27 02:49:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.378300 	 - Quantity: 59.677978 	 - Time: 2021-11-26T19:48:59Z
+2021/11/27 02:49:00 EXIT: Profit: -0.926723 	 Total Profit: 62.615667 	 -- Comment: Exit LONG --
+2021/11/27 02:54:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.364100 	 - Quantity: 59.779295 	 - Time: 2021-11-26T19:53:59Z
+2021/11/27 02:54:00 EXIT: Profit: -0.847427 	 Total Profit: 61.768239 	 -- Comment: Exit SHORT --
+2021/11/27 03:08:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.350100 	 - Quantity: 59.879522 	 - Time: 2021-11-26T20:07:59Z
+2021/11/27 03:08:00 EXIT: Profit: 0.836910 	 Total Profit: 62.605149 	 -- Comment: Exit LONG --
+2021/11/27 03:12:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.341600 	 - Quantity: 59.940539 	 - Time: 2021-11-26T20:11:59Z
+2021/11/27 03:12:00 EXIT: Profit: -0.508976 	 Total Profit: 62.096173 	 -- Comment: Exit SHORT --
+2021/11/27 03:24:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.323100 	 - Quantity: 60.073771 	 - Time: 2021-11-26T20:23:59Z
+2021/11/27 03:24:00 EXIT: Profit: 1.108900 	 Total Profit: 63.205073 	 -- Comment: Exit LONG --
+2021/11/27 03:37:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.361600 	 - Quantity: 59.797168 	 - Time: 2021-11-26T20:36:59Z
+2021/11/27 03:37:00 EXIT: Profit: 2.312840 	 Total Profit: 65.517914 	 -- Comment: Exit SHORT --
+2021/11/27 03:44:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.352800 	 - Quantity: 59.860167 	 - Time: 2021-11-26T20:43:59Z
+2021/11/27 03:44:00 EXIT: Profit: 0.526215 	 Total Profit: 66.044129 	 -- Comment: Exit LONG --
+2021/11/27 04:00:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.408300 	 - Quantity: 59.465052 	 - Time: 2021-11-26T20:59:59Z
+2021/11/27 04:00:01 EXIT: Profit: 3.322239 	 Total Profit: 69.366368 	 -- Comment: Exit SHORT --
+2021/11/27 04:06:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.413800 	 - Quantity: 59.426181 	 - Time: 2021-11-26T21:06:59Z
+2021/11/27 04:06:01 EXIT: Profit: -0.327058 	 Total Profit: 69.039310 	 -- Comment: Exit SHORT --
+2021/11/27 04:07:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.413700 	 - Quantity: 59.426887 	 - Time: 2021-11-26T21:06:59Z
+2021/11/27 04:07:00 EXIT: Profit: 0.005943 	 Total Profit: 69.045253 	 -- Comment: Exit SHORT --
+2021/11/27 04:21:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.373600 	 - Quantity: 59.711474 	 - Time: 2021-11-26T21:20:59Z
+2021/11/27 04:21:00 EXIT: Profit: 2.383018 	 Total Profit: 71.428271 	 -- Comment: Exit LONG --
+2021/11/27 04:23:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.350500 	 - Quantity: 59.876654 	 - Time: 2021-11-26T21:22:59Z
+2021/11/27 04:23:01 EXIT: Profit: -1.379335 	 Total Profit: 70.048936 	 -- Comment: Exit SHORT --
+2021/11/27 04:24:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.374500 	 - Quantity: 59.705057 	 - Time: 2021-11-26T21:23:59Z
+2021/11/27 04:24:00 EXIT: Profit: -1.437040 	 Total Profit: 68.611896 	 -- Comment: Exit LONG --
+2021/11/27 04:26:00 EXIT: Profit: -1.916532 	 Total Profit: 66.695364 	 -- Comment: Exit SHORT --
+2021/11/27 04:26:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.342400 	 - Quantity: 59.934791 	 - Time: 2021-11-26T21:25:59Z
+2021/11/27 04:29:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.363000 	 - Quantity: 59.787158 	 - Time: 2021-11-26T21:28:59Z
+2021/11/27 04:29:00 EXIT: Profit: -1.234657 	 Total Profit: 65.460707 	 -- Comment: Exit LONG --
+2021/11/27 04:37:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.368700 	 - Quantity: 59.746436 	 - Time: 2021-11-26T21:36:59Z
+2021/11/27 04:37:00 EXIT: Profit: 0.340787 	 Total Profit: 65.801494 	 -- Comment: Exit SHORT --
+2021/11/27 04:40:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.387400 	 - Quantity: 59.613229 	 - Time: 2021-11-26T21:39:59Z
+2021/11/27 04:40:00 EXIT: Profit: -1.117258 	 Total Profit: 64.684236 	 -- Comment: Exit LONG --
+2021/11/27 04:46:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.375000 	 - Quantity: 59.701493 	 - Time: 2021-11-26T21:45:59Z
+2021/11/27 04:46:00 EXIT: Profit: -0.739204 	 Total Profit: 63.945032 	 -- Comment: Exit SHORT --
+2021/11/27 05:05:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.327100 	 - Quantity: 60.044914 	 - Time: 2021-11-26T22:04:59Z
+2021/11/27 05:05:00 EXIT: Profit: 2.859701 	 Total Profit: 66.804733 	 -- Comment: Exit LONG --
+2021/11/27 05:13:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.366200 	 - Quantity: 59.764290 	 - Time: 2021-11-26T22:12:59Z
+2021/11/27 05:13:00 EXIT: Profit: 2.347756 	 Total Profit: 69.152489 	 -- Comment: Exit SHORT --
+2021/11/27 05:15:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.387400 	 - Quantity: 59.613229 	 - Time: 2021-11-26T22:14:59Z
+2021/11/27 05:15:00 EXIT: Profit: -1.267003 	 Total Profit: 67.885486 	 -- Comment: Exit LONG --
+2021/11/27 05:16:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.358800 	 - Quantity: 59.817199 	 - Time: 2021-11-26T22:15:59Z
+2021/11/27 05:16:00 EXIT: Profit: -1.704938 	 Total Profit: 66.180548 	 -- Comment: Exit SHORT --
+2021/11/27 05:20:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.375700 	 - Quantity: 59.696503 	 - Time: 2021-11-26T22:19:59Z
+2021/11/27 05:20:00 EXIT: Profit: -1.010911 	 Total Profit: 65.169637 	 -- Comment: Exit LONG --
+2021/11/27 05:26:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.367300 	 - Quantity: 59.756433 	 - Time: 2021-11-26T22:25:59Z
+2021/11/27 05:26:00 EXIT: Profit: -0.501451 	 Total Profit: 64.668187 	 -- Comment: Exit SHORT --
+2021/11/27 05:34:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.367700 	 - Quantity: 59.753576 	 - Time: 2021-11-26T22:33:59Z
+2021/11/27 05:34:01 EXIT: Profit: -0.023903 	 Total Profit: 64.644284 	 -- Comment: Exit LONG --
+2021/11/27 05:35:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.363600 	 - Quantity: 59.782869 	 - Time: 2021-11-26T22:34:59Z
+2021/11/27 05:35:00 EXIT: Profit: -0.244990 	 Total Profit: 64.399294 	 -- Comment: Exit SHORT --
+2021/11/27 05:45:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.353000 	 - Quantity: 59.858733 	 - Time: 2021-11-26T22:44:59Z
+2021/11/27 05:45:00 EXIT: Profit: 0.633698 	 Total Profit: 65.032993 	 -- Comment: Exit SHORT --
+2021/11/27 06:01:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.301200 	 - Quantity: 60.232256 	 - Time: 2021-11-26T23:00:59Z
+2021/11/27 06:01:00 EXIT: Profit: 3.100682 	 Total Profit: 68.133675 	 -- Comment: Exit LONG --
+2021/11/27 06:02:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.284400 	 - Quantity: 60.354401 	 - Time: 2021-11-26T23:01:59Z
+2021/11/27 06:02:00 EXIT: Profit: -1.011902 	 Total Profit: 67.121773 	 -- Comment: Exit SHORT --
+2021/11/27 06:04:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.325200 	 - Quantity: 60.058617 	 - Time: 2021-11-26T23:03:59Z
+2021/11/27 06:04:01 EXIT: Profit: -2.462460 	 Total Profit: 64.659314 	 -- Comment: Exit LONG --
+2021/11/27 06:17:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.350500 	 - Quantity: 59.876654 	 - Time: 2021-11-26T23:17:59Z
+2021/11/27 06:17:00 EXIT: Profit: 1.519483 	 Total Profit: 66.178797 	 -- Comment: Exit LONG --
+2021/11/27 06:36:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.250000 	 - Quantity: 60.606061 	 - Time: 2021-11-26T23:35:59Z
+2021/11/27 06:36:00 EXIT: Profit: -6.017604 	 Total Profit: 60.161193 	 -- Comment: Exit LONG --
+2021/11/27 06:41:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.247800 	 - Quantity: 60.622227 	 - Time: 2021-11-26T23:40:59Z
+2021/11/27 06:41:01 EXIT: Profit: -0.133333 	 Total Profit: 60.027860 	 -- Comment: Exit SHORT --
+2021/11/27 06:49:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.252900 	 - Quantity: 60.584764 	 - Time: 2021-11-26T23:48:59Z
+2021/11/27 06:49:00 EXIT: Profit: -0.309173 	 Total Profit: 59.718686 	 -- Comment: Exit LONG --
+2021/11/27 06:53:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.232700 	 - Quantity: 60.733417 	 - Time: 2021-11-26T23:52:59Z
+2021/11/27 06:53:00 EXIT: Profit: -1.223812 	 Total Profit: 58.494874 	 -- Comment: Exit SHORT --
+2021/11/27 07:05:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.248600 	 - Quantity: 60.616347 	 - Time: 2021-11-27T00:04:59Z
+2021/11/27 07:05:00 EXIT: Profit: -0.965661 	 Total Profit: 57.529213 	 -- Comment: Exit SHORT --
+2021/11/27 07:08:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.287500 	 - Quantity: 60.331825 	 - Time: 2021-11-27T00:07:59Z
+2021/11/27 07:08:00 EXIT: Profit: -2.357976 	 Total Profit: 55.171237 	 -- Comment: Exit LONG --
+2021/11/27 07:22:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.378100 	 - Quantity: 59.679402 	 - Time: 2021-11-27T00:21:59Z
+2021/11/27 07:22:01 EXIT: Profit: 5.466063 	 Total Profit: 60.637300 	 -- Comment: Exit SHORT --
+2021/11/27 07:24:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.389100 	 - Quantity: 59.601149 	 - Time: 2021-11-27T00:23:59Z
+2021/11/27 07:24:00 EXIT: Profit: -0.656473 	 Total Profit: 59.980827 	 -- Comment: Exit LONG --
+2021/11/27 07:26:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.395500 	 - Quantity: 59.555714 	 - Time: 2021-11-27T00:25:59Z
+2021/11/27 07:26:00 EXIT: Profit: 0.381447 	 Total Profit: 60.362274 	 -- Comment: Exit LONG --
+2021/11/27 07:37:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.416200 	 - Quantity: 59.409235 	 - Time: 2021-11-27T00:36:59Z
+2021/11/27 07:37:00 EXIT: Profit: 1.232803 	 Total Profit: 61.595077 	 -- Comment: Exit LONG --
+2021/11/27 07:47:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.438700 	 - Quantity: 59.250832 	 - Time: 2021-11-27T00:46:59Z
+2021/11/27 07:47:01 EXIT: Profit: 1.336708 	 Total Profit: 62.931785 	 -- Comment: Exit SHORT --
+2021/11/27 08:01:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.403900 	 - Quantity: 59.496186 	 - Time: 2021-11-27T01:00:59Z
+2021/11/27 08:01:00 EXIT: Profit: 2.061929 	 Total Profit: 64.993714 	 -- Comment: Exit LONG --
+2021/11/27 08:11:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.430100 	 - Quantity: 59.311277 	 - Time: 2021-11-27T01:10:59Z
+2021/11/27 08:11:00 EXIT: Profit: 1.558800 	 Total Profit: 66.552514 	 -- Comment: Exit SHORT --
+2021/11/27 08:23:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.395000 	 - Quantity: 59.559261 	 - Time: 2021-11-27T01:22:59Z
+2021/11/27 08:23:00 EXIT: Profit: 2.081826 	 Total Profit: 68.634340 	 -- Comment: Exit LONG --
+2021/11/27 08:26:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.382200 	 - Quantity: 59.650211 	 - Time: 2021-11-27T01:25:59Z
+2021/11/27 08:26:00 EXIT: Profit: -0.762359 	 Total Profit: 67.871981 	 -- Comment: Exit SHORT --
+2021/11/27 08:30:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.385000 	 - Quantity: 59.630292 	 - Time: 2021-11-27T01:29:59Z
+2021/11/27 08:30:00 EXIT: Profit: -0.167021 	 Total Profit: 67.704961 	 -- Comment: Exit LONG --
+2021/11/27 08:47:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.440300 	 - Quantity: 59.239600 	 - Time: 2021-11-27T01:46:59Z
+2021/11/27 08:47:00 EXIT: Profit: 3.297555 	 Total Profit: 71.002516 	 -- Comment: Exit SHORT --
+2021/11/27 08:49:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.448700 	 - Quantity: 59.180702 	 - Time: 2021-11-27T01:48:59Z
+2021/11/27 08:49:00 EXIT: Profit: -0.497613 	 Total Profit: 70.504903 	 -- Comment: Exit LONG --
+2021/11/27 08:51:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.442200 	 - Quantity: 59.226268 	 - Time: 2021-11-27T01:50:59Z
+2021/11/27 08:51:00 EXIT: Profit: -0.384675 	 Total Profit: 70.120229 	 -- Comment: Exit SHORT --
+2021/11/27 09:02:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.451200 	 - Quantity: 59.163196 	 - Time: 2021-11-27T02:01:59Z
+2021/11/27 09:02:00 EXIT: Profit: -0.533036 	 Total Profit: 69.587192 	 -- Comment: Exit LONG --
+2021/11/27 09:09:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.454300 	 - Quantity: 59.141502 	 - Time: 2021-11-27T02:09:59Z
+2021/11/27 09:09:00 EXIT: Profit: 0.183406 	 Total Profit: 69.770598 	 -- Comment: Exit SHORT --
+2021/11/27 09:10:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.458000 	 - Quantity: 59.115630 	 - Time: 2021-11-27T02:09:59Z
+2021/11/27 09:10:01 EXIT: Profit: -0.218824 	 Total Profit: 69.551775 	 -- Comment: Exit SHORT --
+2021/11/27 09:26:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.399500 	 - Quantity: 59.527353 	 - Time: 2021-11-27T02:25:59Z
+2021/11/27 09:26:00 EXIT: Profit: 3.458264 	 Total Profit: 73.010039 	 -- Comment: Exit LONG --
+2021/11/27 09:44:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.426600 	 - Quantity: 59.335912 	 - Time: 2021-11-27T02:43:59Z
+2021/11/27 09:44:00 EXIT: Profit: 1.613191 	 Total Profit: 74.623230 	 -- Comment: Exit SHORT --
+2021/11/27 09:48:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.437700 	 - Quantity: 59.257855 	 - Time: 2021-11-27T02:47:59Z
+2021/11/27 09:48:00 EXIT: Profit: -0.658629 	 Total Profit: 73.964602 	 -- Comment: Exit LONG --
+2021/11/27 09:50:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.420000 	 - Quantity: 59.382423 	 - Time: 2021-11-27T02:49:59Z
+2021/11/27 09:50:01 EXIT: Profit: -1.048864 	 Total Profit: 72.915738 	 -- Comment: Exit SHORT --
+2021/11/27 09:57:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.432500 	 - Quantity: 59.294397 	 - Time: 2021-11-27T02:56:59Z
+2021/11/27 09:57:01 EXIT: Profit: -0.742280 	 Total Profit: 72.173457 	 -- Comment: Exit LONG --
+2021/11/27 09:59:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.420500 	 - Quantity: 59.378897 	 - Time: 2021-11-27T02:58:59Z
+2021/11/27 09:59:00 EXIT: Profit: -0.711533 	 Total Profit: 71.461925 	 -- Comment: Exit SHORT --
+2021/11/27 10:00:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.431800 	 - Quantity: 59.299319 	 - Time: 2021-11-27T02:59:59Z
+2021/11/27 10:00:00 EXIT: Profit: -0.670982 	 Total Profit: 70.790943 	 -- Comment: Exit LONG --
+2021/11/27 10:04:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.410000 	 - Quantity: 59.453032 	 - Time: 2021-11-27T03:03:59Z
+2021/11/27 10:04:00 EXIT: Profit: -1.292725 	 Total Profit: 69.498218 	 -- Comment: Exit SHORT --
+2021/11/27 10:14:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.380300 	 - Quantity: 59.663735 	 - Time: 2021-11-27T03:14:59Z
+2021/11/27 10:14:00 EXIT: Profit: 1.765755 	 Total Profit: 71.263973 	 -- Comment: Exit LONG --
+2021/11/27 10:15:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.387900 	 - Quantity: 59.609676 	 - Time: 2021-11-27T03:14:59Z
+2021/11/27 10:15:01 EXIT: Profit: 0.453444 	 Total Profit: 71.717417 	 -- Comment: Exit LONG --
+2021/11/27 10:23:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.405400 	 - Quantity: 59.485569 	 - Time: 2021-11-27T03:22:59Z
+2021/11/27 10:23:00 EXIT: Profit: 1.043169 	 Total Profit: 72.760587 	 -- Comment: Exit SHORT --
+2021/11/27 10:31:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.396500 	 - Quantity: 59.548621 	 - Time: 2021-11-27T03:30:59Z
+2021/11/27 10:31:00 EXIT: Profit: 0.529422 	 Total Profit: 73.290008 	 -- Comment: Exit LONG --
+2021/11/27 10:41:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.368700 	 - Quantity: 59.746436 	 - Time: 2021-11-27T03:40:59Z
+2021/11/27 10:41:00 EXIT: Profit: -1.655452 	 Total Profit: 71.634557 	 -- Comment: Exit LONG --
+2021/11/27 10:42:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.363600 	 - Quantity: 59.782869 	 - Time: 2021-11-27T03:41:59Z
+2021/11/27 10:42:00 EXIT: Profit: -0.304707 	 Total Profit: 71.329850 	 -- Comment: Exit SHORT --
+2021/11/27 10:56:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.315300 	 - Quantity: 60.130122 	 - Time: 2021-11-27T03:55:59Z
+2021/11/27 10:56:00 EXIT: Profit: 2.887513 	 Total Profit: 74.217362 	 -- Comment: Exit LONG --
+2021/11/27 10:57:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.313600 	 - Quantity: 60.142417 	 - Time: 2021-11-27T03:56:59Z
+2021/11/27 10:57:00 EXIT: Profit: -0.102221 	 Total Profit: 74.115141 	 -- Comment: Exit SHORT --
+2021/11/27 10:58:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.337600 	 - Quantity: 59.969296 	 - Time: 2021-11-27T03:57:59Z
+2021/11/27 10:58:00 EXIT: Profit: -1.443418 	 Total Profit: 72.671723 	 -- Comment: Exit LONG --
+2021/11/27 11:02:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.311400 	 - Quantity: 60.158337 	 - Time: 2021-11-27T04:01:59Z
+2021/11/27 11:02:00 EXIT: Profit: -1.571196 	 Total Profit: 71.100528 	 -- Comment: Exit SHORT --
+2021/11/27 11:12:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.308700 	 - Quantity: 60.177886 	 - Time: 2021-11-27T04:11:59Z
+2021/11/27 11:12:01 EXIT: Profit: 0.162428 	 Total Profit: 71.262955 	 -- Comment: Exit LONG --
+2021/11/27 11:15:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.296700 	 - Quantity: 60.264925 	 - Time: 2021-11-27T04:14:59Z
+2021/11/27 11:15:00 EXIT: Profit: -0.722135 	 Total Profit: 70.540820 	 -- Comment: Exit SHORT --
+2021/11/27 11:18:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.333600 	 - Quantity: 59.998080 	 - Time: 2021-11-27T04:17:59Z
+2021/11/27 11:18:00 EXIT: Profit: -2.223776 	 Total Profit: 68.317045 	 -- Comment: Exit LONG --
+2021/11/27 11:25:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.335600 	 - Quantity: 59.983684 	 - Time: 2021-11-27T04:24:59Z
+2021/11/27 11:25:00 EXIT: Profit: 0.119996 	 Total Profit: 68.437041 	 -- Comment: Exit SHORT --
+2021/11/27 11:26:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.337600 	 - Quantity: 59.969296 	 - Time: 2021-11-27T04:25:59Z
+2021/11/27 11:26:01 EXIT: Profit: -0.119967 	 Total Profit: 68.317074 	 -- Comment: Exit LONG --
+2021/11/27 11:30:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.338500 	 - Quantity: 59.962823 	 - Time: 2021-11-27T04:29:59Z
+2021/11/27 11:30:00 EXIT: Profit: 0.053972 	 Total Profit: 68.371046 	 -- Comment: Exit SHORT --
+2021/11/27 11:32:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.362200 	 - Quantity: 59.792877 	 - Time: 2021-11-27T04:31:59Z
+2021/11/27 11:32:00 EXIT: Profit: -1.421119 	 Total Profit: 66.949927 	 -- Comment: Exit LONG --
+2021/11/27 11:38:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.366600 	 - Quantity: 59.761432 	 - Time: 2021-11-27T04:37:59Z
+2021/11/27 11:38:01 EXIT: Profit: 0.263089 	 Total Profit: 67.213016 	 -- Comment: Exit SHORT --
+2021/11/27 11:39:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.371800 	 - Quantity: 59.724313 	 - Time: 2021-11-27T04:38:59Z
+2021/11/27 11:39:00 EXIT: Profit: -0.310759 	 Total Profit: 66.902256 	 -- Comment: Exit LONG --
+2021/11/27 11:49:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.390200 	 - Quantity: 59.593335 	 - Time: 2021-11-27T04:48:59Z
+2021/11/27 11:49:00 EXIT: Profit: 1.098927 	 Total Profit: 68.001184 	 -- Comment: Exit SHORT --
+2021/11/27 11:50:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.395900 	 - Quantity: 59.552877 	 - Time: 2021-11-27T04:49:59Z
+2021/11/27 11:50:01 EXIT: Profit: -0.339682 	 Total Profit: 67.661502 	 -- Comment: Exit LONG --
+2021/11/27 11:52:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.380500 	 - Quantity: 59.662311 	 - Time: 2021-11-27T04:51:59Z
+2021/11/27 11:52:00 EXIT: Profit: -0.917114 	 Total Profit: 66.744387 	 -- Comment: Exit SHORT --
+2021/11/27 11:56:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.389900 	 - Quantity: 59.595466 	 - Time: 2021-11-27T04:55:59Z
+2021/11/27 11:56:00 EXIT: Profit: -0.560826 	 Total Profit: 66.183562 	 -- Comment: Exit LONG --
+2021/11/27 12:02:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.391400 	 - Quantity: 59.584813 	 - Time: 2021-11-27T05:01:59Z
+2021/11/27 12:02:00 EXIT: Profit: 0.089393 	 Total Profit: 66.272955 	 -- Comment: Exit SHORT --
+2021/11/27 12:07:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.385000 	 - Quantity: 59.630292 	 - Time: 2021-11-27T05:06:59Z
+2021/11/27 12:07:00 EXIT: Profit: 0.381343 	 Total Profit: 66.654298 	 -- Comment: Exit SHORT --
+2021/11/27 12:13:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.379400 	 - Quantity: 59.670143 	 - Time: 2021-11-27T05:12:59Z
+2021/11/27 12:13:00 EXIT: Profit: 0.333930 	 Total Profit: 66.988227 	 -- Comment: Exit LONG --
+2021/11/27 12:14:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.377700 	 - Quantity: 59.682252 	 - Time: 2021-11-27T05:13:59Z
+2021/11/27 12:14:00 EXIT: Profit: -0.101439 	 Total Profit: 66.886788 	 -- Comment: Exit SHORT --
+2021/11/27 12:18:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.381400 	 - Quantity: 59.655905 	 - Time: 2021-11-27T05:17:59Z
+2021/11/27 12:18:00 EXIT: Profit: -0.220824 	 Total Profit: 66.665964 	 -- Comment: Exit LONG --
+2021/11/27 12:23:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.366600 	 - Quantity: 59.761432 	 - Time: 2021-11-27T05:22:59Z
+2021/11/27 12:23:00 EXIT: Profit: -0.882907 	 Total Profit: 65.783056 	 -- Comment: Exit SHORT --
+2021/11/27 12:25:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.377300 	 - Quantity: 59.685101 	 - Time: 2021-11-27T05:24:59Z
+2021/11/27 12:25:00 EXIT: Profit: -0.639447 	 Total Profit: 65.143609 	 -- Comment: Exit LONG --
+2021/11/27 12:29:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.368600 	 - Quantity: 59.747150 	 - Time: 2021-11-27T05:28:59Z
+2021/11/27 12:29:00 EXIT: Profit: -0.519260 	 Total Profit: 64.624349 	 -- Comment: Exit SHORT --
+2021/11/27 12:31:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.384900 	 - Quantity: 59.631003 	 - Time: 2021-11-27T05:30:59Z
+2021/11/27 12:31:00 EXIT: Profit: -0.973879 	 Total Profit: 63.650470 	 -- Comment: Exit LONG --
+2021/11/27 12:35:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.372500 	 - Quantity: 59.719319 	 - Time: 2021-11-27T05:34:59Z
+2021/11/27 12:35:00 EXIT: Profit: -0.739424 	 Total Profit: 62.911046 	 -- Comment: Exit SHORT --
+2021/11/27 13:03:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.308700 	 - Quantity: 60.177886 	 - Time: 2021-11-27T06:02:59Z
+2021/11/27 13:03:00 EXIT: Profit: 3.810093 	 Total Profit: 66.721138 	 -- Comment: Exit LONG --
+2021/11/27 13:08:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.289700 	 - Quantity: 60.315814 	 - Time: 2021-11-27T06:07:59Z
+2021/11/27 13:08:00 EXIT: Profit: -1.143380 	 Total Profit: 65.577758 	 -- Comment: Exit SHORT --
+2021/11/27 13:13:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.298600 	 - Quantity: 60.251127 	 - Time: 2021-11-27T06:12:59Z
+2021/11/27 13:13:00 EXIT: Profit: -0.536811 	 Total Profit: 65.040948 	 -- Comment: Exit LONG --
+2021/11/27 13:22:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.304000 	 - Quantity: 60.211946 	 - Time: 2021-11-27T06:21:59Z
+2021/11/27 13:22:01 EXIT: Profit: 0.325356 	 Total Profit: 65.366304 	 -- Comment: Exit SHORT --
+2021/11/27 13:37:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.241400 	 - Quantity: 60.669304 	 - Time: 2021-11-27T06:36:59Z
+2021/11/27 13:37:00 EXIT: Profit: 3.769268 	 Total Profit: 69.135571 	 -- Comment: Exit LONG --
+2021/11/27 13:38:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.249600 	 - Quantity: 60.608999 	 - Time: 2021-11-27T06:37:59Z
+2021/11/27 13:38:01 EXIT: Profit: 0.497488 	 Total Profit: 69.633060 	 -- Comment: Exit SHORT --
+2021/11/27 13:43:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.255800 	 - Quantity: 60.563483 	 - Time: 2021-11-27T06:42:59Z
+2021/11/27 13:43:01 EXIT: Profit: -0.375776 	 Total Profit: 69.257284 	 -- Comment: Exit LONG --
+2021/11/27 13:53:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.266300 	 - Quantity: 60.486554 	 - Time: 2021-11-27T06:52:59Z
+2021/11/27 13:53:00 EXIT: Profit: 0.635917 	 Total Profit: 69.893200 	 -- Comment: Exit LONG --
+2021/11/27 13:54:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.250000 	 - Quantity: 60.606061 	 - Time: 2021-11-27T06:53:59Z
+2021/11/27 13:54:00 EXIT: Profit: -0.985931 	 Total Profit: 68.907270 	 -- Comment: Exit SHORT --
+2021/11/27 13:57:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.252700 	 - Quantity: 60.586232 	 - Time: 2021-11-27T06:56:59Z
+2021/11/27 13:57:00 EXIT: Profit: -0.163636 	 Total Profit: 68.743633 	 -- Comment: Exit LONG --
+2021/11/27 13:58:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.241900 	 - Quantity: 60.665623 	 - Time: 2021-11-27T06:57:59Z
+2021/11/27 13:58:00 EXIT: Profit: -0.654331 	 Total Profit: 68.089302 	 -- Comment: Exit SHORT --
+2021/11/27 14:02:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.251200 	 - Quantity: 60.597246 	 - Time: 2021-11-27T07:01:59Z
+2021/11/27 14:02:00 EXIT: Profit: -0.564190 	 Total Profit: 67.525112 	 -- Comment: Exit LONG --
+2021/11/27 14:05:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.231000 	 - Quantity: 60.745960 	 - Time: 2021-11-27T07:04:59Z
+2021/11/27 14:05:00 EXIT: Profit: -1.224064 	 Total Profit: 66.301047 	 -- Comment: Exit SHORT --
+2021/11/27 14:05:44 Start: 2021-11-27T07:05:44Z
+2021/11/27 14:10:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.250200 	 - Quantity: 60.604591 	 - Time: 2021-11-27T07:09:59Z
+2021/11/27 14:10:00 EXIT: Profit: -1.166322 	 Total Profit: 65.134725 	 -- Comment: Exit LONG --
+2021/11/27 14:16:01 EXIT: Profit: 0.660590 	 Total Profit: 65.795315 	 -- Comment: Exit SHORT --
+2021/11/27 14:16:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.261100 	 - Quantity: 60.524627 	 - Time: 2021-11-27T07:16:59Z
+2021/11/27 14:17:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.256100 	 - Quantity: 60.561282 	 - Time: 2021-11-27T07:16:59Z
+2021/11/27 14:17:00 EXIT: Profit: 0.302623 	 Total Profit: 66.097938 	 -- Comment: Exit SHORT --
+2021/11/27 14:20:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.251600 	 - Quantity: 60.594309 	 - Time: 2021-11-27T07:19:59Z
+2021/11/27 14:20:00 EXIT: Profit: 0.272526 	 Total Profit: 66.370464 	 -- Comment: Exit SHORT --
+2021/11/27 14:23:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.257500 	 - Quantity: 60.551014 	 - Time: 2021-11-27T07:23:59Z
+2021/11/27 14:23:00 EXIT: Profit: -0.357506 	 Total Profit: 66.012957 	 -- Comment: Exit SHORT --
+2021/11/27 14:24:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.257900 	 - Quantity: 60.548081 	 - Time: 2021-11-27T07:23:59Z
+2021/11/27 14:24:01 EXIT: Profit: -0.024220 	 Total Profit: 65.988737 	 -- Comment: Exit SHORT --
+2021/11/27 14:28:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.253000 	 - Quantity: 60.584030 	 - Time: 2021-11-27T07:27:59Z
+2021/11/27 14:28:00 EXIT: Profit: 0.296686 	 Total Profit: 66.285423 	 -- Comment: Exit LONG --
+2021/11/27 14:31:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.238000 	 - Quantity: 60.694343 	 - Time: 2021-11-27T07:30:59Z
+2021/11/27 14:31:00 EXIT: Profit: -0.908760 	 Total Profit: 65.376662 	 -- Comment: Exit SHORT --
+2021/11/27 14:33:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.249100 	 - Quantity: 60.612673 	 - Time: 2021-11-27T07:32:59Z
+2021/11/27 14:33:00 EXIT: Profit: -0.673707 	 Total Profit: 64.702955 	 -- Comment: Exit LONG --
+2021/11/27 14:38:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.244300 	 - Quantity: 60.647963 	 - Time: 2021-11-27T07:37:59Z
+2021/11/27 14:38:00 EXIT: Profit: -0.290941 	 Total Profit: 64.412014 	 -- Comment: Exit SHORT --
+2021/11/27 14:42:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.253300 	 - Quantity: 60.581828 	 - Time: 2021-11-27T07:41:59Z
+2021/11/27 14:42:00 EXIT: Profit: -0.545832 	 Total Profit: 63.866182 	 -- Comment: Exit LONG --
+2021/11/27 14:51:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.261600 	 - Quantity: 60.520964 	 - Time: 2021-11-27T07:50:59Z
+2021/11/27 14:51:01 EXIT: Profit: 0.502829 	 Total Profit: 64.369012 	 -- Comment: Exit SHORT --
+2021/11/27 14:52:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.271900 	 - Quantity: 60.445605 	 - Time: 2021-11-27T07:51:59Z
+2021/11/27 14:52:00 EXIT: Profit: -0.623366 	 Total Profit: 63.745646 	 -- Comment: Exit LONG --
+2021/11/27 14:59:01 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.274600 	 - Quantity: 60.425882 	 - Time: 2021-11-27T07:59:59Z
+2021/11/27 14:59:01 EXIT: Profit: 0.163203 	 Total Profit: 63.908849 	 -- Comment: Exit SHORT --
+2021/11/27 15:00:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.271500 	 - Quantity: 60.448528 	 - Time: 2021-11-27T07:59:59Z
+2021/11/27 15:00:00 EXIT: Profit: 0.187320 	 Total Profit: 64.096169 	 -- Comment: Exit SHORT --
+2021/11/27 15:02:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.297900 	 - Quantity: 60.256209 	 - Time: 2021-11-27T08:01:59Z
+2021/11/27 15:02:00 EXIT: Profit: -1.595841 	 Total Profit: 62.500328 	 -- Comment: Exit LONG --
+2021/11/27 15:18:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.357900 	 - Quantity: 59.823640 	 - Time: 2021-11-27T08:17:59Z
+2021/11/27 15:18:00 EXIT: Profit: 3.615373 	 Total Profit: 66.115700 	 -- Comment: Exit SHORT --
+2021/11/27 15:20:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.372000 	 - Quantity: 59.722886 	 - Time: 2021-11-27T08:19:59Z
+2021/11/27 15:20:00 EXIT: Profit: -0.843513 	 Total Profit: 65.272187 	 -- Comment: Exit LONG --
+2021/11/27 15:34:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.432900 	 - Quantity: 59.291584 	 - Time: 2021-11-27T08:33:59Z
+2021/11/27 15:34:00 EXIT: Profit: 3.637124 	 Total Profit: 68.909311 	 -- Comment: Exit SHORT --
+2021/11/27 15:37:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.447700 	 - Quantity: 59.187708 	 - Time: 2021-11-27T08:36:59Z
+2021/11/27 15:37:00 EXIT: Profit: -0.877515 	 Total Profit: 68.031795 	 -- Comment: Exit LONG --
+2021/11/27 15:46:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.440400 	 - Quantity: 59.238899 	 - Time: 2021-11-27T08:45:59Z
+2021/11/27 15:46:00 EXIT: Profit: -0.432070 	 Total Profit: 67.599725 	 -- Comment: Exit SHORT --
+2021/11/27 15:53:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER LONG 	 🔻🔻🔻🔻🔻 	 - Price: 8.439700 	 - Quantity: 59.243812 	 - Time: 2021-11-27T08:52:59Z
+2021/11/27 15:53:00 EXIT: Profit: 0.041467 	 Total Profit: 67.641192 	 -- Comment: Exit LONG --
+2021/11/27 15:56:00 NEARUSDT 	 🔻🔻🔻🔻🔻 	 ENTER SHORT 	 🔻🔻🔻🔻🔻 	 - Price: 8.432700 	 - Quantity: 59.292990 	 - Time: 2021-11-27T08:55:59Z
+2021/11/27 15:56:00 EXIT: Profit: -0.414707 	 Total Profit: 67.226486 	 -- Comment: Exit SHORT --

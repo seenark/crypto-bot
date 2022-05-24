@@ -1,0 +1,9 @@
+environment: dev
+app:
+  port: 8000
+mongo:
+  username: HadesGod3
+  password: AtIwatseeNarK19
+  dbName: crypto
+  emaCollection: two_ema_cross
+  userCollection: users
